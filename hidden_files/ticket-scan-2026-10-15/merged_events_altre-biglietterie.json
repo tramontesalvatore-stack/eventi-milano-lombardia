@@ -1,0 +1,4217 @@
+[
+ {
+  "title": "FABIO DE LUIGI - BIOL - In Carne e Ossa Tour",
+  "category": "comedy",
+  "startDate": "2026-10-15",
+  "endDate": null,
+  "dateLabel": "giovedì 15 ottobre 2026",
+  "timeLabel": "21:00",
+  "venue": "Teatro Lirico Giorgio Gaber",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "stand-up",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Show di Fabio De Luigi, tour 'In Carne e Ossa'.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Larga 14, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/fabio-de-luigi-biol-in-carne-e-ossa-tour-milano-15-10-2026/event/ruug3ocpsvd1",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "STAND UP COMEDY WEEK - CATTIVE COMPAGNIE",
+  "category": "comedy",
+  "startDate": "2026-10-15",
+  "endDate": null,
+  "dateLabel": "giovedì 15 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "stand-up",
+  "priceLabel": "Gratuito",
+  "priceType": "free",
+  "details": "Conversazioni poco raccomandabili con Antonio Ricatti & ENSI.",
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket (Teatro) del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Teatro",
+    "url": "https://www.mailticket.it/esplora/4/Teatro",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Skream + ALDAVE",
+  "category": "music",
+  "startDate": "2026-10-15",
+  "endDate": null,
+  "dateLabel": "giovedì 15 ottobre 2026",
+  "timeLabel": "23:30–04:30",
+  "venue": "Volt Club Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Serata del giovedì al VOLT con Skream e il resident ALDAVE, in collaborazione con GAIA. RA Pick. Solo biglietti alla porta (no prevendite); selezione all'ingresso, abbigliamento classico/formale non gradito.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Molino delle Armi 16, 20123 Milano",
+  "sources": [
+   {
+    "name": "Resident Advisor – Skream + ALDAVE",
+    "url": "https://ra.co/events/2547523",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "THE NORTH WIND",
+  "category": "music",
+  "startDate": "2026-10-15",
+  "endDate": null,
+  "dateLabel": "giovedì 15 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 11,22",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Tempio Radio Notturna x Fleurs Sonores: Blunderr, Fennec |||, MA\\\\E",
+  "category": "music",
+  "startDate": "2026-10-15",
+  "endDate": null,
+  "dateLabel": "giovedì 15 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Tempio del Futuro Perduto",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Ingresso gratuito",
+  "priceType": "free",
+  "details": "Line-up: Blunderr, Fennec |||, MA\\\\E.",
+  "foodDetails": null,
+  "caveat": "Orario non catturato dalla listing RA.",
+  "address": "Via Luigi Nono 7, Milano",
+  "sources": [
+   {
+    "name": "Resident Advisor – Tempio Radio Notturna x Fleurs Sonores",
+    "url": "https://ra.co/events/1553513",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "AMÉMÉ + AWEN",
+  "category": "music",
+  "startDate": "2026-10-16",
+  "endDate": null,
+  "dateLabel": "venerdì 16 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Volt Club Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Venerdì al VOLT con AMÉMÉ e AWEN. Confermato anche dalla guida club di DJ Mag Italia (ottobre 2026).",
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dalla listing RA Milano e dal calendario venue.",
+  "address": "Via Molino delle Armi 16, 20123 Milano",
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-15",
+    "channel": "ticketing"
+   },
+   {
+    "name": "DJ Mag Italia – Guida ottobre 2026 (Milano: club)",
+    "url": "https://www.djmagitalia.com/ottobre-2026-ibiza-amsterdam-dance-event-halloween-la-nostra-guida/",
+    "channel": "editorial"
+   }
+  ]
+ },
+ {
+  "title": "DON'T TELL MAMA",
+  "category": "music",
+  "startDate": "2026-10-16",
+  "endDate": null,
+  "dateLabel": "venerdì 16 ottobre 2026",
+  "timeLabel": "23:00–05:00",
+  "venue": "Gate Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "party",
+  "priceLabel": "Second Release 20€ / Third Release 23€ / Final Release 25€",
+  "priceType": "paid",
+  "details": "DTM nella Club Room del Gate. Line-up: LYTON, NINNIDSLVX (Trance Italy), ELNA B2B RXSS, R KORNER B2B AKORIZ (Artcore), RASSEL XTL.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Valtellina 21, Milano",
+  "sources": [
+   {
+    "name": "XCEED – DON'T TELL MAMA",
+    "url": "https://xceed.me/it/milano/event/dont-tell-mama-17/246022/channel/gate-milano",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "FABIO DE LUIGI - BIOL - In Carne e Ossa Tour",
+  "category": "comedy",
+  "startDate": "2026-10-16",
+  "endDate": null,
+  "dateLabel": "venerdì 16 ottobre 2026",
+  "timeLabel": "21:00",
+  "venue": "Teatro Lirico Giorgio Gaber",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "stand-up",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Show di Fabio De Luigi, tour 'In Carne e Ossa'.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Larga 14, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/fabio-de-luigi-biol-in-carne-e-ossa-tour-milano-16-10-2026/event/kdjpdoz5dozc",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "INNER CIRCLE - | RUIZ OSC1",
+  "category": "music",
+  "startDate": "2026-10-16",
+  "endDate": null,
+  "dateLabel": "venerdì 16 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Department 184",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Line-up: RUIZ OSC1.",
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dalla listing RA Milano.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-15",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "NIKOLINA & KNTRLVRLST",
+  "category": "music",
+  "startDate": "2026-10-16",
+  "endDate": null,
+  "dateLabel": "venerdì 16 ottobre 2026",
+  "timeLabel": "23:00–05:00",
+  "venue": "Gate Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "party",
+  "priceLabel": "GA da 20€ (Early Bird 15€ e First Release 18€ sold out; Backstage da 28€)",
+  "priceType": "paid",
+  "details": "Hard techno/schranz. Line-up: NIKOLINA (Berlino), KNTRLVRLST (Monaco), warm-up PACKAPUNCH909. Main Room. Evento 18+ con selezione all'ingresso (fonte mymi.it).",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Valtellina 21, Milano",
+  "sources": [
+   {
+    "name": "XCEED – NIKOLINA & KNTRLVRLST",
+    "url": "https://xceed.me/en/milano/event/nikolina-kntrlvrlst/236322/channel/gate-milano-ads",
+    "channel": "ticketing"
+   },
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-15",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Oriental Techno Club - 東極玄音寺: Ecilo, Zenyee, Shū",
+  "category": "music",
+  "startDate": "2026-10-16",
+  "endDate": null,
+  "dateLabel": "venerdì 16 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Tempio del Futuro Perduto",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Appuntamento settimanale del venerdì al Tempio. Line-up: Ecilo, Zenyee, Shū.",
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dalla listing RA Milano.",
+  "address": "Via Luigi Nono 7, Milano",
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-15",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "SHINE ON PROJECT",
+  "category": "music",
+  "startDate": "2026-10-16",
+  "endDate": null,
+  "dateLabel": "venerdì 16 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 15,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "SOTTOSUONO: Gene On Earth x DURO (1st Anniversary)",
+  "category": "music",
+  "startDate": "2026-10-16",
+  "endDate": null,
+  "dateLabel": "venerdì 16 ottobre 2026",
+  "timeLabel": null,
+  "venue": "DURO",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Primo anniversario di SOTTOSUONO al DURO con Gene On Earth.",
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dalla listing RA Milano.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-15",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "STAND UP COMEDY WEEK - FLERT! IT'S A MATCH",
+  "category": "comedy",
+  "startDate": "2026-10-16",
+  "endDate": null,
+  "dateLabel": "venerdì 16 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "stand-up",
+  "priceLabel": "Gratuito",
+  "priceType": "free",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket (Teatro) del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Teatro",
+    "url": "https://www.mailticket.it/esplora/4/Teatro",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Closer #118 Amelia /// Lacchesi - LYZA - Ndrx - Rene Wise - Spekki Webu - Known Artist",
+  "category": "music",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Circolo Amelia",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Line-up: Lacchesi, LYZA, Ndrx, Rene Wise, Spekki Webu, Known Artist.",
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dalla listing RA Milano.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-17",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Closer #118 Masada /// Andy Martin - Mac Declos - Rorschack - Yamila - akin.souls",
+  "category": "music",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Masada",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Line-up: Andy Martin, Mac Declos, Rorschack, Yamila, akin.souls.",
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dalla listing RA Milano.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-17",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "DISCO FELINA: Stella Zekri, Futuro Tropicale, Naydiaa, Butch Haynes b2b M.Brunetti",
+  "category": "music",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Tempio del Futuro Perduto",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "party",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Line-up: Stella Zekri, Futuro Tropicale, Naydiaa, Butch Haynes b2b M.Brunetti.",
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dalla listing RA Milano.",
+  "address": "Via Luigi Nono 7, Milano",
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-17",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "via Giuseppe Di Vittorio 6, Assago",
+  "area": "lombardia",
+  "category": "music",
+  "caveat": null,
+  "city": "Assago",
+  "dateLabel": "sabato 17 ottobre 2026",
+  "details": "Special guest Jayler ore 19:45. Solo posti a sedere. In vendita su MC2Live.it e Vivaticket.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto",
+  "priceLabel": "a partire da 60 € + diritti di prevendita",
+  "priceType": "paid",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Deep Purple",
+    "url": "https://www.vivaticket.com/it/ticket/deep-purple/288816"
+   },
+   {
+    "channel": "editorial",
+    "name": "Mentelocale – Deep Purple",
+    "url": "https://www.mentelocale.it/milano/126367-deep-purple-a-milano.htm"
+   }
+  ],
+  "startDate": "2026-10-17",
+  "timeLabel": "ore 21:00",
+  "title": "Deep Purple – SPLAT! World Tour",
+  "venue": "Unipol Forum"
+ },
+ {
+  "title": "ECLISSI FEST",
+  "category": "music",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": "Apertura porte ore 17:00, inizio ore 17:00",
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "festival",
+  "priceLabel": "Da € 19,80 (€ 18,00 + € 1,80 d.p.)",
+  "priceType": "paid",
+  "details": "Festival musicale al Druso.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - ECLISSI FEST",
+    "url": "https://mailticket.it/evento/54063/eclissi-fest",
+    "channel": "ticketing"
+   },
+   {
+    "name": "allevents.in - ECLISSI FEST @ Druso",
+    "url": "https://allevents.in/alzano-lombardo/siphonoforo-in-concerto-al-druso-di-bergamo/200030570363734",
+    "channel": "editorial"
+   }
+  ]
+ },
+ {
+  "address": "via Valtellina 25, Milano",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Evento sold out: non più acquistabile.",
+  "city": "Milano",
+  "dateLabel": "sabato 17 ottobre 2026",
+  "details": "Porte ore 19:00, The Damn Truth ore 19:45, Europe ore 21:00. Esaurito in prevendita (comunicato MC2 Live).",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto",
+  "priceLabel": "biglietti a partire da 57,50 € (terrazzina VIP 230 €); esaurito in prevendita",
+  "priceType": "paid",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Europe",
+    "url": "https://www.vivaticket.com/it/ticket/europe/288815"
+   },
+   {
+    "channel": "editorial",
+    "name": "Mentelocale – Europe",
+    "url": "https://www.mentelocale.it/milano/126367-europe-a-milano.htm"
+   }
+  ],
+  "startDate": "2026-10-17",
+  "timeLabel": "ore 21:00",
+  "title": "Europe – Alcatraz Milano (SOLD OUT)",
+  "venue": "Alcatraz"
+ },
+ {
+  "title": "Jay Park Ft. LNGSHOT - Serenades & Body Rolls Tour",
+  "category": "music",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": "19:00",
+  "venue": "Fabrique",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Gaudenzio Fantoli 9, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/jay-park-ft-lngshot-milano-17-10-2026/event/q9zp9b365mon",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "PERREO XL",
+  "category": "music",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": "23:00–05:00",
+  "venue": "Gate Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "party",
+  "priceLabel": "Online: 10€ donne / 15€ uomini; alla porta: 10€/15€ prima delle 02:00, 15€/20€ dopo (tavoli VIP da 300€)",
+  "priceType": "paid",
+  "details": "Reggaeton party settimanale del sabato. Dress code: selezione alla porta, pantaloncini vietati. Biglietti non rimborsabili.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Valtellina 21, Milano",
+  "sources": [
+   {
+    "name": "XCEED – PERREO XL (17 ott)",
+    "url": "https://xceed.me/en/milano/event/perreo-xl-17/240982/channel/perreo-5",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Ruido Sound pres. Italian Electronic Soundscapes",
+  "category": "music",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Skate Park (Parco Lambro)",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dalla listing RA Milano.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-17",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "STAND UP COMEDY WEEK - IMPREPARATI",
+  "category": "comedy",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "stand-up",
+  "priceLabel": "Da € 17,25",
+  "priceType": "paid",
+  "details": "Con Tiziano La Bella e Xhuliano Dule.",
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket (Teatro) del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Teatro",
+    "url": "https://www.mailticket.it/esplora/4/Teatro",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Synthetica • Saturday morning at Company w/Glädjee, Ledemiurgefou, Meier, OnusseN",
+  "category": "music",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Company Club",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Afterparty del sabato mattina. Line-up: Glädjee, Ledemiurgefou, Meier, OnusseN.",
+  "foodDetails": null,
+  "caveat": "Orario di questa edizione non catturato (il format parte tipicamente alle 05:30). Scheda evento RA non recuperata (403).",
+  "address": null,
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-17",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Take It Easy x VBX x PLGRN",
+  "category": "music",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Arca",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "party",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dalla listing RA Milano.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-17",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Toman + Alessio Cristiano",
+  "category": "music",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Volt Club Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Sabato al VOLT.",
+  "foodDetails": null,
+  "caveat": "Line-up aggiornata dal promoter: la listing RA riportava prima 'Toman + Giulio Domi'. Scheda evento non recuperata (403).",
+  "address": "Via Molino delle Armi 16, 20123 Milano",
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-17",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "WOT pres. Giampierre",
+  "category": "music",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Malaga Sin City",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Line-up: Giampierre.",
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dalla listing RA Milano.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-17",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "X Season: Undercatt",
+  "category": "music",
+  "startDate": "2026-10-17",
+  "endDate": null,
+  "dateLabel": "sabato 17 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Apophis Club",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dalla listing RA Milano.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-17",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "BOBO RONDELLI",
+  "category": "music",
+  "startDate": "2026-10-18",
+  "endDate": null,
+  "dateLabel": "domenica 18 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 20,00",
+  "priceType": "paid",
+  "details": "Concerto in duo acustico del cantautore livornese.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - BOBO RONDELLI",
+    "url": "https://www.mailticket.it/evento/53971/bobo-rondelli",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "via G. Amendola 3, Segrate",
+  "area": "lombardia",
+  "category": "comedy",
+  "caveat": "Le singole date delle quattro serate non sono pubblicate individualmente: la stagione indica il periodo 18/10/2026–18/04/2027. Verificare la data di ciascuna serata prima dell'acquisto.",
+  "city": "Segrate",
+  "dateLabel": "dal 18 ottobre 2026 al 18 aprile 2027",
+  "details": "Quattro serate di laboratorio comico, sempre diverse, tra nuovi sketch e cavalli di battaglia. Con Rossana Carretto, Alessandra Ierse, Laura Magni, Viviana Porro, Nadia Puma e Alessandra Sarno. Rassegna ComedyLab curata dalla direzione artistica di TeAtrio.",
+  "endDate": "2027-04-18",
+  "foodDetails": null,
+  "kind": "cabaret",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Le Scemette Cantiere Aperto",
+    "url": "https://www.vivaticket.com/it/ticket/le-scemette-cantiere-aperto/316254"
+   },
+   {
+    "channel": "editorial",
+    "name": "Quindicinews – stagione Cascina Commenda",
+    "url": "https://quindicinews.it/2026/09/23/segrate-al-via-la-stagione-teatrale-2026-2027-alla-cascina-commenda/"
+   }
+  ],
+  "startDate": "2026-10-18",
+  "timeLabel": "ore 18:00",
+  "title": "Le Scemette – Cantiere Aperto",
+  "venue": "Auditorium Toscanini (Cascina Commenda)"
+ },
+ {
+  "address": "via S. Salvatore 4, Bergamo",
+  "area": "lombardia",
+  "category": "music",
+  "caveat": null,
+  "city": "Bergamo",
+  "dateLabel": "domenica 18 ottobre 2026",
+  "details": "Concerto lirico con programma vario: arie d'opera, romanze da salotto e canzoni popolari dei primi del Novecento. Tenore Mario Daccò.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "BG",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Mario Daccò in Recital",
+    "url": "https://www.vivaticket.com/it/ticket/mario-dacco-in-recital/313612"
+   }
+  ],
+  "startDate": "2026-10-18",
+  "timeLabel": "ore 17:00",
+  "title": "Mario Daccò in Recital – I Grandi Classici",
+  "venue": "Sala Alfredo Piatti"
+ },
+ {
+  "address": "non pubblicato",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Programma e orario non pubblicati; prezzo da offerta convenzionata UNIMI.",
+  "city": "Milano",
+  "dateLabel": "domenica 18 ottobre 2026",
+  "details": "Recital per la stagione della Fondazione La Società dei Concerti. Programma non pubblicato nella listing.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto classica",
+  "priceLabel": "15 € settore unico (prezzo convenzionato Università Statale)",
+  "priceType": "paid",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Fondazione La Società dei Concerti (tour)",
+    "url": "https://www.vivaticket.com/it/tour/fondazione-la-societa-dei/2558"
+   },
+   {
+    "channel": "organizer",
+    "name": "UNIMI – Offerta biglietti 2026/27",
+    "url": "https://unimi.it/sites/default/files/2026-09/UNIMI%20Offerta%20biglietti%202026-2027.pdf"
+   }
+  ],
+  "startDate": "2026-10-18",
+  "timeLabel": "non pubblicato",
+  "title": "Mascia / Ciammarughi – Recital (Fondazione La Società dei Concerti)",
+  "venue": "Sala Verdi del Conservatorio"
+ },
+ {
+  "title": "Technocrazia Season Opening - 12H All Day Long",
+  "category": "music",
+  "startDate": "2026-10-18",
+  "endDate": null,
+  "dateLabel": "domenica 18 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Department 184",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Season opening in formula 12 ore all day long.",
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dalla listing RA Milano.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Resident Advisor – Eventi a Milano (listing)",
+    "url": "https://ra.co/events/it/milan?startDate=2026-10-17",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "via Pietrasanta 14, Milano",
+  "area": "milano",
+  "category": "music",
+  "caveat": null,
+  "city": "Milano",
+  "dateLabel": "lunedì 19 ottobre 2026",
+  "details": "Little Sis Nora ore 19:45, Käärijä ore 21:00. Concerto spostato dal Legend Club ai Magazzini Generali; i tagliandi già venduti restano validi. Biglietti su MC2Live.it e Vivaticket.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Käärijä Eurodisko Tour 2026",
+    "url": "https://www.vivaticket.com/it/ticket/kaarija-eurodisko-tour-2026/302380"
+   },
+   {
+    "channel": "organizer",
+    "name": "MC2 Live – Käärijä",
+    "url": "https://mc2live.vivaticket.it/it/event/k%C3%A4%C3%A4rij%C3%A4/302380"
+   }
+  ],
+  "startDate": "2026-10-19",
+  "timeLabel": "porte ore 19:00, Käärijä ore 21:00",
+  "title": "Käärijä – Eurodisko Tour 2026",
+  "venue": "Magazzini Generali"
+ },
+ {
+  "title": "Macello live a Milano - Pensieri Cattivi",
+  "category": "music",
+  "startDate": "2026-10-20",
+  "endDate": null,
+  "dateLabel": "martedì 20 ottobre 2026",
+  "timeLabel": "21:00–23:59",
+  "venue": "Magazzini Generali",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "25€ (sold out)",
+  "priceType": "paid",
+  "details": "Seconda data milanese del Pensieri Cattivi Tour del rapper bolognese Macello dopo il sold out della prima. Rap/trap.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Pietrasanta 16, Milano",
+  "sources": [
+   {
+    "name": "XCEED – Macello live a Milano - Pensieri Cattivi",
+    "url": "https://xceed.me/en/milano/event/macello-live-a-milano-pensieri-cattivi-1/240627",
+    "channel": "ticketing"
+   },
+   {
+    "name": "XCEED – Eventi a Milano (listing)",
+    "url": "https://xceed.me/it/milano/events",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "NERISSIMA SERPE / LA TANA DEI SERPENTI - Live tour 2026",
+  "category": "music",
+  "startDate": "2026-10-20",
+  "endDate": null,
+  "dateLabel": "martedì 20 ottobre 2026",
+  "timeLabel": "Inizio ore 21:00",
+  "venue": "Alcatraz",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 38,00 (VIP € 65,00 esaurito)",
+  "priceType": "paid",
+  "details": "Primo club tour da solista; brani dall'album 'NERISSIMA' e hit con Papa V e Fritu.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Valtellina 25, 20159 Milano",
+  "sources": [
+   {
+    "name": "TicketSms - Nerissima Serpe Milano",
+    "url": "https://www.ticketsms.it/it/event/Nerissima-Serpe--La-Tana-Dei-Serpenti-Live-Tour-2026-Milano-Alcatraz-20-10-2026",
+    "channel": "ticketing"
+   },
+   {
+    "name": "TicketSms - Eventi a Milano",
+    "url": "https://places.ticketsms.it/places/eventi-e-concerti-a-milano/",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Willie Peyote - Club Tour 2026",
+  "category": "music",
+  "startDate": "2026-10-20",
+  "endDate": null,
+  "dateLabel": "martedì 20 ottobre 2026",
+  "timeLabel": "21:00",
+  "venue": "Fabrique",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Gaudenzio Fantoli 9, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/willy-peyote-milano-20-10-2026/event/xwpn9rj7894t",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "DER WEG EINER FREIHEIT",
+  "category": "music",
+  "startDate": "2026-10-21",
+  "endDate": null,
+  "dateLabel": "mercoledì 21 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Paderno Dugnano",
+  "province": "MI",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 26,45",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026. Stessa sera anche a Milano.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "DER WEG EINER FREIHEIT",
+  "category": "music",
+  "startDate": "2026-10-21",
+  "endDate": null,
+  "dateLabel": "mercoledì 21 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 26,45",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026. Stessa sera anche a Paderno Dugnano.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Enrico Brignano - Bello di Mamma Indoor",
+  "category": "comedy",
+  "startDate": "2026-10-21",
+  "endDate": null,
+  "dateLabel": "mercoledì 21 ottobre 2026",
+  "timeLabel": "21:15",
+  "venue": "Teatro Clerici",
+  "city": "Brescia",
+  "province": "BS",
+  "area": "lombardia",
+  "kind": "stand-up",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Show di Enrico Brignano, 'Bello di Mamma' versione indoor.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via S. Zeno 168, Brescia",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/enrico-brignano-bello-di-mamma-indoor-brescia-21-10-2026/event/qwql4egquz46",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "MARILYN IN JAZZ con Beatrice Zanolini",
+  "category": "music",
+  "startDate": "2026-10-21",
+  "endDate": null,
+  "dateLabel": "mercoledì 21 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Varese",
+  "province": "VA",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 14,22",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "non pubblicato",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Programma e orario non pubblicati; prezzi da offerta convenzionata UNIMI.",
+  "city": "Milano",
+  "dateLabel": "mercoledì 21 ottobre 2026",
+  "details": "Concerto della stagione della Fondazione La Società dei Concerti. Programma non pubblicato nella listing.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto classica",
+  "priceLabel": "settore bianco 25 €, settore blu 20 €, settore giallo 15 € (prezzi convenzionati Università Statale)",
+  "priceType": "paid",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Fondazione La Società dei Concerti (tour)",
+    "url": "https://www.vivaticket.com/it/tour/fondazione-la-societa-dei/2558"
+   },
+   {
+    "channel": "organizer",
+    "name": "UNIMI – Offerta biglietti 2026/27",
+    "url": "https://unimi.it/sites/default/files/2026-09/UNIMI%20Offerta%20biglietti%202026-2027.pdf"
+   }
+  ],
+  "startDate": "2026-10-21",
+  "timeLabel": "non pubblicato",
+  "title": "Orchestra Canova, Pagano, Elders – Concerto (Fondazione La Società dei Concerti)",
+  "venue": "Sala Verdi del Conservatorio"
+ },
+ {
+  "title": "SAYF - Santissimo Tour",
+  "category": "music",
+  "startDate": "2026-10-21",
+  "endDate": null,
+  "dateLabel": "mercoledì 21 ottobre 2026",
+  "timeLabel": "21:00",
+  "venue": "Alcatraz",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Valtellina 25, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/sayf-milano-21-10-2026/event/i5z603yq40n8",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "FABIO MERCURI - ARCIPELAGO X",
+  "category": "music",
+  "startDate": "2026-10-22",
+  "endDate": null,
+  "dateLabel": "giovedì 22 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 10,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "L'Antidote | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-10-22",
+  "endDate": null,
+  "dateLabel": "giovedì 22 ottobre 2026",
+  "timeLabel": "21:00",
+  "venue": "Santeria Toscana 31",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Toscana 31, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/lantidote-jazzmi-2026-milano-22-10-2026/event/635n7g1qdbsr",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "SAYF - Santissimo Tour",
+  "category": "music",
+  "startDate": "2026-10-22",
+  "endDate": null,
+  "dateLabel": "giovedì 22 ottobre 2026",
+  "timeLabel": "21:00",
+  "venue": "Alcatraz",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Seconda data milanese del Santissimo Tour.",
+  "foodDetails": null,
+  "caveat": "Sold out: entrambe le date milanesi (21 e 22/10) risultano esaurite da comunicato stampa ufficiale del tour; scheda singola TicketSms non recuperata via ricerca.",
+  "address": "Via Valtellina 25, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/sayf-milano-22-10-2026/event/tndqp9s9o2uj",
+    "channel": "ticketing"
+   },
+   {
+    "name": "TicketSms - Eventi a Milano",
+    "url": "https://places.ticketsms.it/places/eventi-e-concerti-a-milano/",
+    "channel": "ticketing"
+   },
+   {
+    "name": "LongLiveRocknRoll - comunicato Santissimo Tour",
+    "url": "https://www.longliverocknroll.it/sayf-inizia-il-conto-alla-rovescia-per-il-santissimo-tour/",
+    "channel": "editorial"
+   }
+  ]
+ },
+ {
+  "title": "TIMO TOLKKI PERFORMING STRATOVARIUS",
+  "category": "music",
+  "startDate": "2026-10-22",
+  "endDate": null,
+  "dateLabel": "giovedì 22 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 20,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Toman + Giulio Domi",
+  "category": "music",
+  "startDate": "2026-10-22",
+  "endDate": null,
+  "dateLabel": "giovedì 22 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Volt Club Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Giovedì al VOLT con Toman e Giulio Domi.",
+  "foodDetails": null,
+  "caveat": "Scheda evento RA non recuperata (accesso diretto bloccato, 403): dati dal calendario venue su RA (crawl 7 giorni fa). Attenzione: l'evento del 17/10 allo stesso club ha cambiato line-up, verificare.",
+  "address": "Via Molino delle Armi 16, 20123 Milano",
+  "sources": [
+   {
+    "name": "Resident Advisor – Volt Club Milano (calendario venue)",
+    "url": "https://ra.co/events/905426",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "EMAN - Magarìa Club Tour",
+  "category": "music",
+  "startDate": "2026-10-23",
+  "endDate": null,
+  "dateLabel": "venerdì 23 ottobre 2026",
+  "timeLabel": "Apertura ore 20:00, inizio ore 21:00",
+  "venue": "Santeria Toscana 31",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 20,00 (€ 18,00 + € 2,00 d.p.)",
+  "priceType": "paid",
+  "details": "Tappa milanese del Magarìa Club Tour.",
+  "foodDetails": null,
+  "caveat": "Evento non presente nel listing Concerti letto in diretta; trovato via incrocio su motore di ricerca.",
+  "address": "Viale Toscana 31, Milano",
+  "sources": [
+   {
+    "name": "Mailticket - EMAN",
+    "url": "https://www.mailticket.it/evento/54327/eman",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "viale dell'Innovazione 20, Milano",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Prezzo da TicketOne (canale ufficiale alternativo); la scheda Vivaticket non riporta prezzi.",
+  "city": "Milano",
+  "dateLabel": "dal 23 ottobre all'1 novembre 2026",
+  "details": "Prima assoluta del musical costruito sulle canzoni di Umberto Tozzi, con la direzione musicale dell'artista. 21 brani, durata circa 2 ore; il pubblico è libero di cantare e ballare. Cast: Valeria Mancini, Nick Casciaro, Gloria Miele, Emanuela Fresi, Toni Fornari, Elisa Marangon, Fabio Pappacena, Laura Ruocco.",
+  "endDate": "2026-11-01",
+  "foodDetails": null,
+  "kind": "musical",
+  "priceLabel": "biglietti da 34,50 € a 92,00 € (TicketOne)",
+  "priceType": "paid",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Gloria il Musical",
+    "url": "https://www.vivaticket.com/it/ticket/gloria-il-musical/298592"
+   },
+   {
+    "channel": "ticketing",
+    "name": "TicketOne – Gloria il Musical",
+    "url": "https://www.ticketone.it/artist/gloria-il-musical/"
+   },
+   {
+    "channel": "editorial",
+    "name": "Milanopocket – Gloria il Musical",
+    "url": "https://www.milanopocket.it/eventi-milano/gloria-il-musical-milano/"
+   }
+  ],
+  "startDate": "2026-10-23",
+  "timeLabel": "mar–ven ore 21:00; sab ore 16:00 e 21:00; dom ore 16:00",
+  "title": "Gloria – Il Musical (Umberto Tozzi)",
+  "venue": "Teatro degli Arcimboldi"
+ },
+ {
+  "address": "non pubblicato",
+  "area": "lombardia",
+  "category": "comedy",
+  "caveat": "Prezzo non pubblicato per questa data; le edizioni precedenti costavano 20 € (non confermato).",
+  "city": "Olgiate Olona",
+  "dateLabel": "venerdì 23 ottobre 2026",
+  "details": "Serata di cabaret della rassegna Obbiettivo Risata (12° anno). Cast da Zelig e Area Zelig: Paolo Casiraghi alias Suor Nausica, Germano Lanzoni alias Il Milanese Imbruttito e altre sorprese. Presenta e conduce Max Pieriboni.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "cabaret",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "VA",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket (Corriere dello Sport) – Risate in Valle Olona",
+    "url": "https://corrieredellosport.vivaticket.it/it/event/risate-in-valle-olona/315483"
+   },
+   {
+    "channel": "editorial",
+    "name": "Agoravarese – Risate in Valle Olona",
+    "url": "https://www.agoravarese.com/2026/10/cabaret-show-al-teatro-area-101-di.html"
+   }
+  ],
+  "startDate": "2026-10-23",
+  "timeLabel": "ore 21:00",
+  "title": "Risate in Valle Olona",
+  "venue": "Cinema Nuovo area 101"
+ },
+ {
+  "title": "Songhoy Blues | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-10-23",
+  "endDate": null,
+  "dateLabel": "venerdì 23 ottobre 2026",
+  "timeLabel": "22:00",
+  "venue": "Biko",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Ettore Ponti 40, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/songhoy-blues-milano-23-10-2026/event/dllk3x36rxiq",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "THE ROLLING STONES PAINT IT BLACK",
+  "category": "music",
+  "startDate": "2026-10-23",
+  "endDate": null,
+  "dateLabel": "venerdì 23 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 20,00",
+  "priceType": "paid",
+  "details": "Spettacolo di racconti e musica con Ezio Guaitamacchi, Brunella Boschetti, Andrea Mirò e Folco Orselli; classici degli Stones in chiave acustica. Promosso da Noi and Springsteen.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - THE ROLLING STONES PAINT IT BLACK",
+    "url": "https://www.mailticket.it/evento/54937/the-rolling-stones-paint-it-black",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "UEBERREST & IN VERRUF",
+  "category": "music",
+  "startDate": "2026-10-23",
+  "endDate": null,
+  "dateLabel": "venerdì 23 ottobre 2026",
+  "timeLabel": "23:00–05:00",
+  "venue": "Gate Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "party",
+  "priceLabel": "GA da 18€ (Early Bird 15€ sold out; Backstage da 28€)",
+  "priceType": "paid",
+  "details": "Hard techno. Line-up: Ueberrest (Svizzera), In Verruf (Berlino), India Gomes.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Valtellina 21, Milano",
+  "sources": [
+   {
+    "name": "XCEED – UEBERREST & IN VERRUF",
+    "url": "https://xceed.me/milano/event/ueberrest-in-verruf/236323",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Corto Alto | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-10-24",
+  "endDate": null,
+  "dateLabel": "sabato 24 ottobre 2026",
+  "timeLabel": "21:30",
+  "venue": "Santeria Toscana 31",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Toscana 31, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/corto-alto-milano-24-10-2026/event/buxybc5hgz4r",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "DARIO SANSONE DUO - Tour 2026",
+  "category": "music",
+  "startDate": "2026-10-24",
+  "endDate": null,
+  "dateLabel": "sabato 24 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 12,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "GENIO OSCURATO",
+  "category": "music",
+  "startDate": "2026-10-24",
+  "endDate": null,
+  "dateLabel": "sabato 24 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Monza",
+  "province": "MB",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 12,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "LUCIO DALLA - COM'È PROFONDO IL MARE",
+  "category": "music",
+  "startDate": "2026-10-24",
+  "endDate": null,
+  "dateLabel": "sabato 24 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Mortara",
+  "province": "PV",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 6,22",
+  "priceType": "paid",
+  "details": "Tributo a Lucio Dalla: viaggio nell'anima del poeta.",
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "piazza Giuseppe Garibaldi 26, Sondrio",
+  "area": "lombardia",
+  "category": "music",
+  "caveat": "Orario da fonte secondaria (happyticket); prezzi specifici per la data di Sondrio non pubblicati.",
+  "city": "Sondrio",
+  "dateLabel": "sabato 24 ottobre 2026",
+  "details": "Tributo a Celentano con una band di 10–12 musicisti; show approvato da Celentano stesso, con somiglianza fisica e vocale del protagonista. Biglietti su Vivaticket.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "tribute show",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "SO",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Maurizio Schweizer Celentano Tribute",
+    "url": "https://www.vivaticket.com/it/ticket/maurizio-schweizer-celentano-the-tribute-show-world-tour/310106"
+   },
+   {
+    "channel": "ticketing",
+    "name": "Happyticket – Teatro Sociale Sondrio",
+    "url": "https://www.happyticket.com/it/locations/sondrio/teatro-sociale.htm"
+   },
+   {
+    "channel": "editorial",
+    "name": "Teatro.it – Teatro Sociale Sondrio",
+    "url": "https://www.teatro.it/teatri/sociale-sondrio-cartellone"
+   }
+  ],
+  "startDate": "2026-10-24",
+  "timeLabel": "ore 21:00",
+  "title": "Maurizio Schweizer – Celentano! The Tribute Show World Tour",
+  "venue": "Teatro Sociale"
+ },
+ {
+  "address": "via Duprè 19, Milano",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Prezzo non pubblicato sulla scheda; i prezzi generali di stagione del teatro non sono confermati per questa data.",
+  "city": "Milano",
+  "dateLabel": "sabato 24 ottobre 2026",
+  "details": "Serata dedicata alle colonne sonore dei grandi musical, con voci e musica dal vivo. Disponibile anche in abbonamento PROSA, MUSICAL E CONCERTI.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "spettacolo musicale",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Musical Gran Galà",
+    "url": "https://www.vivaticket.com/it/ticket/musical-gran-gala/313207"
+   }
+  ],
+  "startDate": "2026-10-24",
+  "timeLabel": "ore 20:30",
+  "title": "Musical Gran Galà",
+  "venue": "Teatro Guanella"
+ },
+ {
+  "title": "NOVOCAINE+: NEON GRAVEYARD",
+  "category": "music",
+  "startDate": "2026-10-24",
+  "endDate": null,
+  "dateLabel": "sabato 24 ottobre 2026",
+  "timeLabel": "23:00–05:00",
+  "venue": "Gate Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "party",
+  "priceLabel": "GA da 10€ (Early Bird; poi 15€/20€/25€)",
+  "priceType": "paid",
+  "details": "Techno/hard techno. Neon Graveyard (Colonia, fondatore label WAHN) nella Club Room, in collaborazione con Novocaine+.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Valtellina 21, Milano",
+  "sources": [
+   {
+    "name": "XCEED – NOVOCAINE+: NEON GRAVEYARD",
+    "url": "https://xceed.me/en/milano/event/novocaine-neon-graveyard/239512/channel/gate-resident-advisor",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "TINY VIPERS & CHANTAL ACDA - European Tour",
+  "category": "music",
+  "startDate": "2026-10-24",
+  "endDate": null,
+  "dateLabel": "sabato 24 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 14,22",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "LA REGINA DEI ROSPI + RIKI CELLINI - Doppio Live",
+  "category": "music",
+  "startDate": "2026-10-25",
+  "endDate": null,
+  "dateLabel": "domenica 25 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 10,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2",
+  "category": "music",
+  "startDate": "2026-10-27",
+  "endDate": null,
+  "dateLabel": "martedì 27 ottobre 2026",
+  "timeLabel": "21:00",
+  "venue": "Unipol Forum",
+  "city": "Assago",
+  "province": "MI",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Giuseppe di Vittorio 6, Assago",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/don-toliver-nitrous-octane-world-tour-leg-2-assago-27-10-2026/event/ly6393czzwwd",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "non pubblicato",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Programma, orario, venue e prezzi non pubblicati nelle fonti reperite.",
+  "city": "Milano",
+  "dateLabel": "martedì 27 ottobre 2026",
+  "details": "Evento della Fondazione La Società dei Concerti nell'ambito del festival JAZZMI.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Fondazione La Società dei Concerti (tour)",
+    "url": "https://www.vivaticket.com/it/tour/fondazione-la-societa-dei/2558"
+   }
+  ],
+  "startDate": "2026-10-27",
+  "timeLabel": "non pubblicato",
+  "title": "Rhapsody & Blues @ JAZZMI (Fondazione La Società dei Concerti)",
+  "venue": "non pubblicato"
+ },
+ {
+  "title": "Rokia Traoré | JAZZMI 26",
+  "category": "music",
+  "startDate": "2026-10-27",
+  "endDate": null,
+  "dateLabel": "martedì 27 ottobre 2026",
+  "timeLabel": "21:00",
+  "venue": "Alcatraz",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Valtellina 25, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/rokia-traore-milano-27-10-2026/event/cslhv3zcj4wp",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "piazza Carlo Stuparich 1, Milano",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Prezzi non pubblicati sulle fonti reperite.",
+  "city": "Milano",
+  "dateLabel": "martedì 27 ottobre 2026",
+  "details": "Format internazionale che fonde i grandi successi della musica elettronica (Avicii, Calvin Harris, David Guetta, Swedish House Mafia, Eric Prydz, Bob Sinclar, Darude, FISHER) con un'orchestra sinfonica dal vivo, DJ, vocalist e visual immersivi. Durata circa 2 ore, senza intervallo. Età minima 12 anni; minori di 18 anni solo se accompagnati da un adulto. Apertura porte ore 19:00.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Synthony a Milano",
+    "url": "https://www.vivaticket.com/it/ticket/synthony-a-milano/299461"
+   },
+   {
+    "channel": "organizer",
+    "name": "SynthonyTickets – Milano 27/10/26",
+    "url": "https://synthonytickets.com/it/event/synthony_milan_allianzcloud_271026"
+   },
+   {
+    "channel": "editorial",
+    "name": "Mentelocale – Synthony",
+    "url": "https://www.mentelocale.it/milano/126367-synthony-a-milano.htm"
+   }
+  ],
+  "startDate": "2026-10-27",
+  "timeLabel": "early entry ore 19:00, ingresso generale ore 19:30, show ore 21:00",
+  "title": "Synthony a Milano",
+  "venue": "Allianz Cloud Arena"
+ },
+ {
+  "title": "FABIO DE LUIGI - BIOL - In Carne e Ossa Tour",
+  "category": "comedy",
+  "startDate": "2026-10-28",
+  "endDate": null,
+  "dateLabel": "mercoledì 28 ottobre 2026",
+  "timeLabel": "21:00",
+  "venue": "ChorusLife Arena",
+  "city": "Bergamo",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "stand-up",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Show di Fabio De Luigi, tour 'In Carne e Ossa'.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Carlo Serassi 26, Bergamo",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/fabio-de-luigi-bergamo-28-10-2026/event/1i4oz9swbrxj",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Kjartan Sveinsson, Gyda Valtýsdóttir, Bert Cools and Indrė Jurgelevičiūtė | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-10-28",
+  "endDate": null,
+  "dateLabel": "mercoledì 28 ottobre 2026",
+  "timeLabel": "21:00",
+  "venue": "Auditorium San Fedele",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Ulrico Hoepli, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/kjartan-sveinsson-gyda-valtsdttir-bert-cools-and-indr-jurgeleviit-jazzmi-2026-milano-28-10-2026/event/rewuxahmfdvm",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "LERCIO A TEATRO",
+  "category": "comedy",
+  "startDate": "2026-10-28",
+  "endDate": null,
+  "dateLabel": "mercoledì 28 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "stand-up",
+  "priceLabel": "Da € 17,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket (Teatro) del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Teatro",
+    "url": "https://www.mailticket.it/esplora/4/Teatro",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Niall Horan: Dinner Party Live On Tour",
+  "category": "music",
+  "startDate": "2026-10-28",
+  "endDate": null,
+  "dateLabel": "mercoledì 28 ottobre 2026",
+  "timeLabel": "20:30",
+  "venue": "Unipol Forum",
+  "city": "Assago",
+  "province": "MI",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "a partire da 51,75 €",
+  "priceType": "paid",
+  "details": "Dinner Party Live On Tour. Settori 51,75–109,25 €, parterre 74,75 €, pacchetti VIP 164,75/192,75 € (prezzi da teamworld.it). Biglietti su Vivaticket.",
+  "foodDetails": null,
+  "caveat": "Prezzi dettagliati da fonte secondaria (teamworld.it); la scheda Vivaticket non riporta prezzi nello snippet.",
+  "address": "Via Giuseppe di Vittorio 6, Assago",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/niall-horan-dinner-party-live-on-tour-assago-28-10-2026/event/7zc6cew7ggtp",
+    "channel": "ticketing"
+   },
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Niall Horan",
+    "url": "https://www.vivaticket.com/it/ticket/niall-horan/298334"
+   },
+   {
+    "channel": "editorial",
+    "name": "Teamworld – Niall Horan Milano",
+    "url": "https://www.teamworld.it/niall-horan-a-milano/"
+   },
+   {
+    "channel": "ticketing",
+    "name": "TicketOne – Niall Horan",
+    "url": "https://www.ticketone.it/event/niall-horan-unipol-forum-21467883/"
+   }
+  ]
+ },
+ {
+  "title": "L'HALLOWEEN DELLE AGENZIE",
+  "category": "music",
+  "startDate": "2026-10-29",
+  "endDate": null,
+  "dateLabel": "giovedì 29 ottobre 2026",
+  "timeLabel": "20:00–03:00",
+  "venue": "TOM – The Ordinary Market",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "party",
+  "priceLabel": "35€ a persona (cena 2 portate + coperto + acqua, bevande escluse); prenotazione con acconto 15€",
+  "priceType": "paid",
+  "details": "Dinner party di Halloween con DJ set per il mondo della pubblicità/agenzie. Maschera facoltativa. Posti limitati.",
+  "foodDetails": "2 portate a scelta tra antipasti, primi e secondi (proposte terra, mare e veg), coperto e acqua inclusi; bevande escluse",
+  "caveat": null,
+  "address": "Via Molino delle Armi ang. Via della Chiusa, Milano",
+  "sources": [
+   {
+    "name": "XCEED – L'HALLOWEEN DELLE AGENZIE",
+    "url": "https://xceed.me/en/milano/event/lhalloween-delle-agenzie/247142/channel/drag-srl-1",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Paolo Fresu Quintet 'Ascensore per il Patibolo' | JAZZMI 26",
+  "category": "music",
+  "startDate": "2026-10-29",
+  "endDate": null,
+  "dateLabel": "giovedì 29 ottobre 2026",
+  "timeLabel": "21:00",
+  "venue": "Teatro Lirico Giorgio Gaber",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Larga 14, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/paolo-fresu-quintet-ascensore-per-il-patibolo-milano-29-10-2026/event/2ofhixil342w",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "THE TURRAS - MUSICA PANICA",
+  "category": "music",
+  "startDate": "2026-10-29",
+  "endDate": null,
+  "dateLabel": "giovedì 29 ottobre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 12,00",
+  "priceType": "paid",
+  "details": "Con Sarah Stride e Alberto N. A. Turra.",
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Louis Matute Large Ensemble | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-10-30",
+  "endDate": null,
+  "dateLabel": "venerdì 30 ottobre 2026",
+  "timeLabel": "22:00",
+  "venue": "Biko",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Ettore Ponti 40, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/louis-matute-large-ensemble-jazzmi-2026-milano-30-10-2026/event/i8al81rrclr2",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "SICK TAMBURO",
+  "category": "music",
+  "startDate": "2026-10-30",
+  "endDate": null,
+  "dateLabel": "venerdì 30 ottobre 2026",
+  "timeLabel": null,
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 18,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Tommy Emmanuel | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-10-30",
+  "endDate": null,
+  "dateLabel": "venerdì 30 ottobre 2026",
+  "timeLabel": "21:00",
+  "venue": "Teatro Dal Verme",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via S. Giovanni sul Muro 2, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/tommy-emmanuel-milano-30-10-2026/event/60q5rr243dpg",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Enrico Intra meets Gerry Mulligan | JAZZMI 26",
+  "category": "music",
+  "startDate": "2026-10-31",
+  "endDate": null,
+  "dateLabel": "sabato 31 ottobre 2026",
+  "timeLabel": "16:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/enrico-intra-milano-31-10-2026/event/95v0v4q2l07c",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Gaetano Liguori Idea Trio 'Underground' | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-10-31",
+  "endDate": null,
+  "dateLabel": "sabato 31 ottobre 2026",
+  "timeLabel": "12:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026. Matinée.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/gaetano-liguori-idea-trio-underground-jazzmi-2026-milano-31-10-2026/event/uadyji7hf4tc",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "HALLOWEEN PARTY - Teo e le Veline Grasse + Point Break VJ",
+  "category": "music",
+  "startDate": "2026-10-31",
+  "endDate": null,
+  "dateLabel": "sabato 31 ottobre 2026",
+  "timeLabel": "Apertura ore 21:00, inizio ore 22:00",
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "party",
+  "priceLabel": "Da € 15,00",
+  "priceType": "paid",
+  "details": "Show dei Teo e le Veline Grasse + VDjSet a tema dei Point Break. Rassegna Halloween 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - HALLOWEEN PARTY",
+    "url": "https://www.mailticket.it/evento/55326/halloween-party",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "PERREO XL - HALLOWEEN",
+  "category": "music",
+  "startDate": "2026-10-31",
+  "endDate": null,
+  "dateLabel": "sabato 31 ottobre 2026",
+  "timeLabel": "23:00",
+  "venue": "Gate Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "party",
+  "priceLabel": "Online: 10€ donne / 15€ uomini (prezzi dalla descrizione della serata; listino XCEED non valorizzato)",
+  "priceType": "paid",
+  "details": "Edizione Halloween del reggaeton party del sabato. Dress code: selezione alla porta, pantaloncini vietati.",
+  "foodDetails": null,
+  "caveat": "La scheda XCEED riporta le fasce biglietto senza importi; i prezzi 10€/15€ sono pubblicati nel testo descrittivo della serata.",
+  "address": "Via Valtellina 21, Milano",
+  "sources": [
+   {
+    "name": "XCEED – PERREO XL - HALLOWEEN",
+    "url": "https://xceed.me/en/milano/event/perreo-xl-halloween/240984/channel/perreo-5",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "The Songs of Joni Mitchell | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-10-31",
+  "endDate": null,
+  "dateLabel": "sabato 31 ottobre 2026",
+  "timeLabel": "20:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/the-songs-of-joni-mitchell-milano-31-10-2026/event/elav7zbxih6o",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "WEGZ LIVE IN MILAN",
+  "category": "music",
+  "startDate": "2026-10-31",
+  "endDate": null,
+  "dateLabel": "sabato 31 ottobre 2026",
+  "timeLabel": "18:00–22:00",
+  "venue": "Gate Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da 36€ (2nd Tier; Early Bird 29€ sold out; Priority Pass 59€)",
+  "priceType": "paid",
+  "details": "Live del rapper egiziano Wegz (hip-hop/trap arabo). Concerto serale, non club night.",
+  "foodDetails": null,
+  "caveat": "Il sito del locale indica orari diversi (17:00–05:00); sulla scheda XCEED l'evento è 18:00–22:00: fa fede la scheda XCEED.",
+  "address": "Via Valtellina 21, Milano",
+  "sources": [
+   {
+    "name": "XCEED – WEGZ LIVE IN MILAN",
+    "url": "https://xceed.me/en/milano/event/wegz-live-in-milan/240901",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Dimitri Grechi Espinoza, Aziz Senol Filiz e Guido Zorn 'Meditation on a Love Supreme' | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-11-01",
+  "endDate": null,
+  "dateLabel": "domenica 1 novembre 2026",
+  "timeLabel": "16:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/dimitri-grechi-espinoza-aziz-senol-filiz-e-guido-zorn-meditation-on-a-love-supreme-jazzmi-2026-milano-01-11-2026/event/gevbmvgtyfcd",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Nate Smith | JAZZMI 2026 (ore 20:00)",
+  "category": "music",
+  "startDate": "2026-11-01",
+  "endDate": null,
+  "dateLabel": "domenica 1 novembre 2026",
+  "timeLabel": "20:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": "Ticketmaster elenca due spettacoli distinti di Nate Smith il 1/11 (ore 20:00 e 22:00).",
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/nate-smith-milano-01-11-2026/event/nau82bpktnhz",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Nate Smith | JAZZMI 2026 (ore 22:00)",
+  "category": "music",
+  "startDate": "2026-11-01",
+  "endDate": null,
+  "dateLabel": "domenica 1 novembre 2026",
+  "timeLabel": "22:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": "Ticketmaster elenca due spettacoli distinti di Nate Smith il 1/11 (ore 20:00 e 22:00).",
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/nate-smith-milano-01-11-2026/event/yt3vccabbvfa",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "via Valtellina 25, Milano",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Prezzi non pubblicati nelle fonti reperite.",
+  "city": "Milano",
+  "dateLabel": "lunedì 2 novembre 2026",
+  "details": "Unica data italiana del Dance Kid Dance Act II World Tour; presentano il nuovo album EI8HT. Support act Those Damn Crows. Biglietti su MC2Live.it e Vivaticket.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Shinedown",
+    "url": "https://www.vivaticket.com/it/ticket/shinedown/295609"
+   }
+  ],
+  "startDate": "2026-11-02",
+  "timeLabel": "ore 19:45",
+  "title": "Shinedown – Dance Kid Dance Act II World Tour",
+  "venue": "Alcatraz"
+ },
+ {
+  "title": "David Binney & Louis Cole | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-11-03",
+  "endDate": null,
+  "dateLabel": "martedì 3 novembre 2026",
+  "timeLabel": "20:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/david-binney-action-trio-ft-louis-cole-and-pera-krstrasic-jazzmi-2026-milano-03-11-2026/event/dbwhhzabwtc1",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "MARK GEARY - Live",
+  "category": "music",
+  "startDate": "2026-11-03",
+  "endDate": null,
+  "dateLabel": "martedì 3 novembre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 15,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "China Moses | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-11-04",
+  "endDate": null,
+  "dateLabel": "mercoledì 4 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/china-moses-milano-04-11-2026/event/fhlk6u4ydk7c",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "A New Sketches of Spain | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-11-05",
+  "endDate": null,
+  "dateLabel": "giovedì 5 novembre 2026",
+  "timeLabel": "20:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/a-new-sketches-of-spain-jazzmi-2026-milano-05-11-2026/event/3nh75kgje87l",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "non pubblicato",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Programma, orario, venue e prezzi non pubblicati nelle fonti reperite.",
+  "city": "Milano",
+  "dateLabel": "venerdì 6 novembre 2026",
+  "details": "Concerto straordinario della stagione della Fondazione La Società dei Concerti.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto classica",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Fondazione La Società dei Concerti (tour)",
+    "url": "https://www.vivaticket.com/it/tour/fondazione-la-societa-dei/2558"
+   }
+  ],
+  "startDate": "2026-11-06",
+  "timeLabel": "non pubblicato",
+  "title": "Concerto Straordinario (Fondazione La Società dei Concerti)",
+  "venue": "non pubblicato"
+ },
+ {
+  "title": "FREAKY FRIDAY COMEDY con Saverio Raimondo",
+  "category": "comedy",
+  "startDate": "2026-11-06",
+  "endDate": null,
+  "dateLabel": "venerdì 6 novembre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "stand-up",
+  "priceLabel": "Da € 17,25",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket (Teatro) del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Teatro",
+    "url": "https://www.mailticket.it/esplora/4/Teatro",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Festival dello Spettacolo 2026 - Abbonamento 3 giorni",
+  "category": "music",
+  "startDate": "2026-11-06",
+  "endDate": "2026-11-08",
+  "dateLabel": "venerdì 6 novembre 2026",
+  "timeLabel": "12:00",
+  "venue": "Superstudio Più",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "festival",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Festival dell'industria dello spettacolo a Superstudio Più: abbonamento valido 6-8 novembre.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Tortona 27, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/festival-dello-spettacolo-2026/event/rdr2eokohvhx",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Il Festival dello Spettacolo - Biglietto giornaliero",
+  "category": "music",
+  "startDate": "2026-11-06",
+  "endDate": null,
+  "dateLabel": "venerdì 6 novembre 2026",
+  "timeLabel": "12:00",
+  "venue": "Superstudio Più",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "festival",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Festival dell'industria dello spettacolo a Superstudio Più: biglietto valido per il singolo giorno.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Tortona 27, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/il-festival-dello-spettacolo-milano-06-11-2026/event/vf9f3b4tgu2z",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "MT Jones | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-11-06",
+  "endDate": null,
+  "dateLabel": "venerdì 6 novembre 2026",
+  "timeLabel": "21:30",
+  "venue": "Santeria Toscana 31",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Toscana 31, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/mt-jones-jazzmi-2026-milano-06-11-2026/event/h8izq30gog31",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Placebo - 30th Anniversary Tour",
+  "category": "music",
+  "startDate": "2026-11-06",
+  "endDate": null,
+  "dateLabel": "venerdì 6 novembre 2026",
+  "timeLabel": "20:30",
+  "venue": "Unipol Forum",
+  "city": "Assago",
+  "province": "MI",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Giuseppe di Vittorio 6, Assago",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/placebo-assago-06-11-2026/event/8ne6ogrbggt9",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Svaneborg Kardyb | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-11-06",
+  "endDate": null,
+  "dateLabel": "venerdì 6 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/svaneborg-kardyb-milano-06-11-2026/event/133qrwadspqa",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Bill Frisell with Luke Bergman and Tim Angulo | JAZZMI 2026 (ore 20:00)",
+  "category": "music",
+  "startDate": "2026-11-07",
+  "endDate": null,
+  "dateLabel": "sabato 7 novembre 2026",
+  "timeLabel": "20:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": "Ticketmaster elenca due spettacoli distinti di Bill Frisell il 7/11 (ore 20:00 e 22:00).",
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/bill-frisell-with-luke-bergman-and-tim-angulo-milano-07-11-2026/event/n1n72x6qq006",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Bill Frisell with Luke Bergman and Tim Angulo | JAZZMI 2026 (ore 22:00)",
+  "category": "music",
+  "startDate": "2026-11-07",
+  "endDate": null,
+  "dateLabel": "sabato 7 novembre 2026",
+  "timeLabel": "22:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": "Ticketmaster elenca due spettacoli distinti di Bill Frisell il 7/11 (ore 20:00 e 22:00).",
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/bill-frisell-with-luke-bergman-and-tim-angulo-milano-07-11-2026/event/9o2en666vm3x",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "CALIBRO 35 vs L.A.",
+  "category": "music",
+  "startDate": "2026-11-07",
+  "endDate": null,
+  "dateLabel": "sabato 7 novembre 2026",
+  "timeLabel": "Porte ore 20:30, concerto ore 22:00",
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 25,00",
+  "priceType": "paid",
+  "details": "Presentazione del disco 'Ellroy vs L.A.'. Food truck attivo; ampio parcheggio gratuito; nessuna tessera richiesta.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - CALIBRO 35 vs L.A.",
+    "url": "https://www.mailticket.it/evento/53751/calibro-35-vs-l-a-",
+    "channel": "ticketing"
+   },
+   {
+    "name": "allevents.in - Calibro 35 @ Druso",
+    "url": "https://allevents.in/alzano-lombardo/calibro-35-vs-la-✦-in-concerto-al-druso-di-bergamo/200030333475015",
+    "channel": "editorial"
+   }
+  ]
+ },
+ {
+  "title": "Enzo Favata 'Atlantico' | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-11-07",
+  "endDate": null,
+  "dateLabel": "sabato 7 novembre 2026",
+  "timeLabel": "16:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/enzo-favata-atlantico-milano-07-11-2026/event/xh6nj5djbk6m",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Il Festival dello Spettacolo - Biglietto giornaliero",
+  "category": "music",
+  "startDate": "2026-11-07",
+  "endDate": null,
+  "dateLabel": "sabato 7 novembre 2026",
+  "timeLabel": "10:00",
+  "venue": "Superstudio Più",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "festival",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Festival dell'industria dello spettacolo a Superstudio Più: biglietto valido per il singolo giorno.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Tortona 27, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/il-festival-dello-spettacolo-milano-07-11-2026/event/98c7ddpysxbh",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "LIFELOVER and special guests",
+  "category": "music",
+  "startDate": "2026-11-07",
+  "endDate": null,
+  "dateLabel": "sabato 7 novembre 2026",
+  "timeLabel": "Apertura ore 17:00, inizio ore 17:00",
+  "venue": "Land of Freedom",
+  "city": "Legnano",
+  "province": "MI",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 43,00 (€ 40,00 + € 3,00 d.p.)",
+  "priceType": "paid",
+  "details": "Special guests: Hypotermia, Sedna, Mother Augusta. Ingresso gratuito under 12.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - LIFELOVER",
+    "url": "https://www.mailticket.it/evento/51739/lifelover",
+    "channel": "ticketing"
+   },
+   {
+    "name": "Metalitalia - Lifelover a Legnano",
+    "url": "https://metalitalia.com/articolo/lifelover-una-data-a-milano-a-novembre/",
+    "channel": "editorial"
+   }
+  ]
+ },
+ {
+  "title": "The Messthetics and James Brandon Lewis | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-11-07",
+  "endDate": null,
+  "dateLabel": "sabato 7 novembre 2026",
+  "timeLabel": "21:30",
+  "venue": "Santeria Toscana 31",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Toscana 31, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/the-messthetics-and-james-brandon-lewis-milano-07-11-2026/event/h190ouw6l1n2",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "nayt: Noi Individui Tour",
+  "category": "music",
+  "startDate": "2026-11-07",
+  "endDate": null,
+  "dateLabel": "sabato 7 novembre 2026",
+  "timeLabel": "20:45",
+  "venue": "Unipol Forum",
+  "city": "Assago",
+  "province": "MI",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Giuseppe di Vittorio 6, Assago",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/nayt-noi-individui-tour-assago-07-11-2026/event/02o4qbpf2d4q",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "CEK AND THE STOMPERS",
+  "category": "music",
+  "startDate": "2026-11-08",
+  "endDate": null,
+  "dateLabel": "domenica 8 novembre 2026",
+  "timeLabel": "Apertura ore 17:00, inizio ore 18:00",
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 10,00",
+  "priceType": "paid",
+  "details": "Roots blues e folk.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - CEK AND THE STOMPERS",
+    "url": "https://www.mailticket.it/evento/55574/cek-and-the-stompers",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Calibro 35 vs. L.A. | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-11-08",
+  "endDate": null,
+  "dateLabel": "domenica 8 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/calibro-35-vs-la-jazzmi-2026-milano-08-11-2026/event/68cgvasvwcpx",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Il Festival dello Spettacolo - Biglietto giornaliero",
+  "category": "music",
+  "startDate": "2026-11-08",
+  "endDate": null,
+  "dateLabel": "domenica 8 novembre 2026",
+  "timeLabel": "10:00",
+  "venue": "Superstudio Più",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "festival",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Festival dell'industria dello spettacolo a Superstudio Più: biglietto valido per il singolo giorno.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Tortona 27, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/il-festival-dello-spettacolo-milano-08-11-2026/event/hlt04baruovt",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Isaiah Collier | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-11-08",
+  "endDate": null,
+  "dateLabel": "domenica 8 novembre 2026",
+  "timeLabel": "19:00",
+  "venue": "Teatro dell'Arte - Triennale Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Emilio Alemagna 6, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/isaiah-collier-milano-08-11-2026/event/m1ad85rlkjq4",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "non pubblicato",
+  "area": "lombardia",
+  "category": "music",
+  "caveat": null,
+  "city": "Como",
+  "dateLabel": "domenica 8 novembre 2026",
+  "details": "Concerto lirico con programma vario: arie d'opera, romanze da salotto e canzoni popolari dei primi del Novecento. Tenore Mario Daccò.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "CO",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Mario Daccò a Como",
+    "url": "https://www.vivaticket.com/it/ticket/mario-dacco-in-recital-i-grandi-classici/308215"
+   }
+  ],
+  "startDate": "2026-11-08",
+  "timeLabel": "ore 17:00",
+  "title": "Mario Daccò in Recital – I Grandi Classici",
+  "venue": "Teatro Sociale di Como – Sala Bianca"
+ },
+ {
+  "title": "Sergio Cammariere | JAZZMI 2026",
+  "category": "music",
+  "startDate": "2026-11-08",
+  "endDate": null,
+  "dateLabel": "domenica 8 novembre 2026",
+  "timeLabel": "20:00",
+  "venue": "Conservatorio di Milano - Sala Verdi",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Nell'ambito del festival JAZZMI 2026.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Conservatorio 12, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/sergio-cammariere-milano-08-11-2026/event/v471kcstoywt",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "CONWAY THE MACHINE, DARINGER & MEYHEM LAUREN",
+  "category": "music",
+  "startDate": "2026-11-09",
+  "endDate": null,
+  "dateLabel": "lunedì 9 novembre 2026",
+  "timeLabel": "19:00–23:00",
+  "venue": "Gate Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "General Admission 30€",
+  "priceType": "paid",
+  "details": "Live hip-hop: Conway The Machine con Daringer e Meyhem Lauren.",
+  "foodDetails": null,
+  "caveat": "Alcune vecchie versioni della listing indicavano i Magazzini Generali; la scheda evento corrente indica Gate Milano (Via Valtellina 21).",
+  "address": "Via Valtellina 21, Milano",
+  "sources": [
+   {
+    "name": "XCEED – CONWAY THE MACHINE, DARINGER & MEYHEM LAUREN",
+    "url": "https://xceed.me/en/milano/event/conway-the-machine-daringer/232673/channel/gate-milano-instagram-bio",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "F. BIONDINI - E. BANDINI - N. MAZZUCCONI INTERPRETANO GUCCINI",
+  "category": "music",
+  "startDate": "2026-11-11",
+  "endDate": null,
+  "dateLabel": "mercoledì 11 novembre 2026",
+  "timeLabel": null,
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 15,00",
+  "priceType": "paid",
+  "details": "Concerto-tributo a Francesco Guccini.",
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "LA MEMORIA DELLA TERRA",
+  "category": "music",
+  "startDate": "2026-11-12",
+  "endDate": null,
+  "dateLabel": "giovedì 12 novembre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 11,22",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "NON TI SCORDAR DI ME - Concerto in ricordo di Paolo Nizzola",
+  "category": "music",
+  "startDate": "2026-11-12",
+  "endDate": null,
+  "dateLabel": "giovedì 12 novembre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Bollate",
+  "province": "MI",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 18,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Nuzzo e Di Biase - Allo Sbagliato",
+  "category": "comedy",
+  "startDate": "2026-11-12",
+  "endDate": null,
+  "dateLabel": "giovedì 12 novembre 2026",
+  "timeLabel": "20:30",
+  "venue": "Allo Sbagliato - Teatro Principe",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "stand-up",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Duo comico Nuzzo e Di Biase nella rassegna 'Allo Sbagliato'.",
+  "foodDetails": null,
+  "caveat": "Scheda Ticketmaster senza indirizzo del venue.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/nuzzo-e-di-biase-milano-12-11-2026/event/lcom2reewzy2",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "PIERPAOLO CAPOVILLA E I CATTIVI MAESTRI",
+  "category": "music",
+  "startDate": "2026-11-12",
+  "endDate": null,
+  "dateLabel": "giovedì 12 novembre 2026",
+  "timeLabel": "Inizio ore 21:30",
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 15,00",
+  "priceType": "paid",
+  "details": "Open act: SPREAD.",
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "ROSA - Concerto omaggio a Paolo Benvegnù",
+  "category": "music",
+  "startDate": "2026-11-12",
+  "endDate": null,
+  "dateLabel": "giovedì 12 novembre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 15,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "The Kid LAROI - A Perfect World Tour",
+  "category": "music",
+  "startDate": "2026-11-12",
+  "endDate": null,
+  "dateLabel": "giovedì 12 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Fabrique",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Gaudenzio Fantoli 9, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/the-kid-laroi-a-perfect-world-tour-milano-12-11-2026/event/sk7vixbr0l7f",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "ANNEKE VAN GIERSBERGEN & BAND - Echoes in November",
+  "category": "music",
+  "startDate": "2026-11-13",
+  "endDate": null,
+  "dateLabel": "venerdì 13 novembre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 34,50",
+  "priceType": "paid",
+  "details": "Fall 2026 Tour.",
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "FUNK TRIBU",
+  "category": "music",
+  "startDate": "2026-11-13",
+  "endDate": null,
+  "dateLabel": "venerdì 13 novembre 2026",
+  "timeLabel": "23:00–05:00",
+  "venue": "Gate Milano",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "dj set",
+  "priceLabel": "GA da 18€ (Early Bird; poi 20€/23€/25€/30€/35€; Backstage da 28€)",
+  "priceType": "paid",
+  "details": "Trance/techno. Line-up: Funk Tribu (Bogotà/Berlino), Resa Utopica, GLÄDJEE.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Valtellina 21, Milano",
+  "sources": [
+   {
+    "name": "XCEED – FUNK TRIBU",
+    "url": "http://xceed.me/milano/event/funk-tribu-1/236325",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "LIVE GULINO (MARTA SUI TUBI)",
+  "category": "music",
+  "startDate": "2026-11-13",
+  "endDate": null,
+  "dateLabel": "venerdì 13 novembre 2026",
+  "timeLabel": "20:00",
+  "venue": "Q-HUB",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 26,00",
+  "priceType": "paid",
+  "details": "Live di Gulino (Marta sui Tubi) al Q-HUB.",
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026. | Scheda Mailticket senza venue: abbinato alla data Q-HUB di Ticketmaster (stesso artista e data).",
+  "address": "Via Mecenate, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/gulino-milano-13-11-2026/event/r53wpxyt38th",
+    "channel": "ticketing"
+   },
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "SANTAMAREA",
+  "category": "music",
+  "startDate": "2026-11-13",
+  "endDate": null,
+  "dateLabel": "venerdì 13 novembre 2026",
+  "timeLabel": null,
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 15,00",
+  "priceType": "paid",
+  "details": "Open act: la cantautrice bergamasca Martina Marchetti.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - SANTAMAREA",
+    "url": "https://www.mailticket.it/evento/55503/santamarea",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "The Pretty Reckless - Dear God Tour",
+  "category": "music",
+  "startDate": "2026-11-14",
+  "endDate": null,
+  "dateLabel": "sabato 14 novembre 2026",
+  "timeLabel": "20:00",
+  "venue": "Fabrique",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Gaudenzio Fantoli 9, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/the-pretty-reckless-dear-god-tour-milano-14-11-2026/event/rnpslxf1z7vn",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "22Simba | Miria - Live Tour",
+  "category": "music",
+  "startDate": "2026-11-15",
+  "endDate": null,
+  "dateLabel": "domenica 15 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Fabrique",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Gaudenzio Fantoli 9, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/22simba-miria-live-tour-milano-15-11-2026/event/ir5g2luy26oq",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "CHRIS BERGSON & ELLIS HOOKS BAND",
+  "category": "music",
+  "startDate": "2026-11-15",
+  "endDate": null,
+  "dateLabel": "domenica 15 novembre 2026",
+  "timeLabel": null,
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 10,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Gloria - Il Musical",
+  "category": "music",
+  "startDate": "2026-11-15",
+  "endDate": null,
+  "dateLabel": "domenica 15 novembre 2026",
+  "timeLabel": "17:00",
+  "venue": "Teatro Clerici",
+  "city": "Brescia",
+  "province": "BS",
+  "area": "lombardia",
+  "kind": "musical",
+  "priceLabel": "biglietti da 39,00 € a 89,00 € (TicketOne)",
+  "priceType": "paid",
+  "details": "Data bresciana del tour del musical costruito sulle canzoni di Umberto Tozzi, con la direzione musicale dell'artista. Cast: Valeria Mancini, Nick Casciaro e ensemble.",
+  "foodDetails": null,
+  "caveat": "Orario e prezzi da TicketOne; la scheda Vivaticket è la pagina tour del musical.",
+  "address": "Via S. Zeno 168, Brescia",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/gloria-il-musical-brescia-15-11-2026/event/qi6i8icbh8u8",
+    "channel": "ticketing"
+   },
+   {
+    "channel": "ticketing",
+    "name": "TicketOne – Gloria il Musical Teatro Clerici",
+    "url": "https://www.ticketone.it/event/gloria-il-musical-teatro-clerici-22132713/"
+   },
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Gloria il Musical (tour)",
+    "url": "https://www.vivaticket.com/it/ticket/gloria-il-musical/298592"
+   },
+   {
+    "channel": "editorial",
+    "name": "Mentelocale – Gloria a Brescia",
+    "url": "https://www.mentelocale.it/brescia/138131-gloria-musical.htm"
+   }
+  ]
+ },
+ {
+  "title": "22Simba | Miria - Live Tour",
+  "category": "music",
+  "startDate": "2026-11-16",
+  "endDate": null,
+  "dateLabel": "lunedì 16 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Fabrique",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Gaudenzio Fantoli 9, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/22simba-miria-live-tour-milano-16-11-2026/event/q0v5q45eqaeo",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "The Molotovs",
+  "category": "music",
+  "startDate": "2026-11-16",
+  "endDate": null,
+  "dateLabel": "lunedì 16 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Santeria Toscana 31",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Viale Toscana 31, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/the-molotovs-milano-16-11-2026/event/0eguf2918h2j",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "22Simba | Miria - Live Tour",
+  "category": "music",
+  "startDate": "2026-11-17",
+  "endDate": null,
+  "dateLabel": "martedì 17 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Fabrique",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Tappa milanese del Miria Tour.",
+  "foodDetails": null,
+  "caveat": "Sold out su tutti i circuiti (Ticketmaster, TicketOne, Vivaticket, TicketSms) secondo Live Nation; scheda singola TicketSms non recuperata via ricerca.",
+  "address": "Via Gaudenzio Fantoli 9, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/22simba-miria-live-tour-milano-17-11-2026/event/hvn9kd8ywxf0",
+    "channel": "ticketing"
+   },
+   {
+    "name": "TicketSms - Eventi a Milano",
+    "url": "https://places.ticketsms.it/places/eventi-e-concerti-a-milano/",
+    "channel": "ticketing"
+   },
+   {
+    "name": "Live Nation - 22SIMBA Milano",
+    "url": "https://www.livenation.it/event/22simba-miria-live-tour-milano-tickets-edp1678364?utm_medium=paid&utm_source=ig&utm_id=23859183745630794&utm_content=23859183745670794&utm_term=23859183745580794&utm_campaign=23859183745630794",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "LEAP - Entropy World Tour",
+  "category": "music",
+  "startDate": "2026-11-17",
+  "endDate": null,
+  "dateLabel": "martedì 17 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Magazzini Generali",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Pietrasanta 16, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/leap-entropy-world-tour-milano-17-11-2026/event/bhb7je2h6ivc",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "non pubblicato",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Orari esatti non pubblicati; prezzi da offerta convenzionata UNIMI.",
+  "city": "Milano",
+  "dateLabel": "mercoledì 18 novembre 2026",
+  "details": "Doppio appuntamento (serie Zaffiro + Rubino): concerto pomeridiano e concerto serale del Trio Wanderer per la Fondazione La Società dei Concerti.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto classica",
+  "priceLabel": "settore bianco 20 €, settore blu 15 €, settore giallo 10 € (prezzi convenzionati Università Statale); pomeridiano settore unico 15 €",
+  "priceType": "paid",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Fondazione La Società dei Concerti (tour)",
+    "url": "https://www.vivaticket.com/it/tour/fondazione-la-societa-dei/2558"
+   },
+   {
+    "channel": "organizer",
+    "name": "UNIMI – Offerta biglietti 2026/27",
+    "url": "https://unimi.it/sites/default/files/2026-09/UNIMI%20Offerta%20biglietti%202026-2027.pdf"
+   }
+  ],
+  "startDate": "2026-11-18",
+  "timeLabel": "concerto pomeridiano e concerto serale (orari non pubblicati)",
+  "title": "Trio Wanderer (Fondazione La Società dei Concerti)",
+  "venue": "Sala Verdi del Conservatorio"
+ },
+ {
+  "title": "BLAZE BAYLEY - Iron Maiden Anniversary Tour",
+  "category": "music",
+  "startDate": "2026-11-19",
+  "endDate": null,
+  "dateLabel": "giovedì 19 novembre 2026",
+  "timeLabel": null,
+  "venue": "Arci Tom",
+  "city": "Mantova",
+  "province": "MN",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 28,00",
+  "priceType": "paid",
+  "details": "Tour dedicato agli anni di Bayley negli Iron Maiden. Riservato ai soci Arci. Ingresso gratuito under 12.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - BLAZE BAYLEY",
+    "url": "https://www.mailticket.it/evento/53846/blaze-bayley",
+    "channel": "ticketing"
+   },
+   {
+    "name": "LongLiveRocknRoll - date tour Blaze Bayley",
+    "url": "https://www.longliverocknroll.it/blaze-bayley-torna-in-italia-a-novembre-2026-con-cinque-date-delliron-maiden-anniversary-tour/",
+    "channel": "editorial"
+   }
+  ]
+ },
+ {
+  "title": "Live Session - Allo Sbagliato: prima stanza a destra, Gioia Lucia, Angelica Bove, IL MAESTRALE",
+  "category": "comedy",
+  "startDate": "2026-11-19",
+  "endDate": null,
+  "dateLabel": "giovedì 19 novembre 2026",
+  "timeLabel": "20:30",
+  "venue": "Allo Sbagliato - Teatro Principe",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "stand-up",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Serata 'Live Session' nella rassegna 'Allo Sbagliato'.",
+  "foodDetails": null,
+  "caveat": "Scheda Ticketmaster senza indirizzo del venue.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/live-session-allo-sbagliato-milano-19-11-2026/event/i00cb5mjwwc8",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour",
+  "category": "music",
+  "startDate": "2026-11-20",
+  "endDate": null,
+  "dateLabel": "venerdì 20 novembre 2026",
+  "timeLabel": "20:30",
+  "venue": "Fabrique",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Gaudenzio Fantoli 9, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/artemas-milano-20-11-2026/event/dct3j4c0sm5a",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "DENNIS STRATTON (ex Iron Maiden) + Children Of The Damned",
+  "category": "music",
+  "startDate": "2026-11-20",
+  "endDate": null,
+  "dateLabel": "venerdì 20 novembre 2026",
+  "timeLabel": "Apertura ore 20:30, inizio ore 22:00",
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 15,00",
+  "priceType": "paid",
+  "details": "Con i Children Of The Damned (Iron Maiden tribute). Open act: The Big Four Theory.",
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - DENNIS STRATTON",
+    "url": "https://www.mailticket.it/evento/54093/dennis-stratton-ex-iron-maiden",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Muse - The Wow! Signal Europa Tour",
+  "category": "music",
+  "startDate": "2026-11-20",
+  "endDate": null,
+  "dateLabel": "venerdì 20 novembre 2026",
+  "timeLabel": "20:30",
+  "venue": "Unipol Dome",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Romualdo Bonfadini 148, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/muse-the-wow-signal-europa-tour-milano-20-11-2026/event/nkjzd7z38ebl",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "piazzale dei Cappuccini 3, Lecco",
+  "area": "lombardia",
+  "category": "music",
+  "caveat": "Prezzi non pubblicati sulla scheda.",
+  "city": "Lecco",
+  "dateLabel": "sabato 21 novembre 2026",
+  "details": "Tributo ai Dire Straits con l'orchestra rock dei Dire Straits Over Gold: Luca Friso e Marco Fanton (chitarre), Alessandro Piovan (batteria), Francesco Piovan (basso), Giulio Farigliosi (tastiere). In scaletta Sultans of Swing, Money for Nothing, Romeo and Juliet, Tunnel of Love, Telegraph Road. Info accessibilità: info@direstraitsovergold.com, 376 239 90 49 (lun–ven 10–13).",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "LC",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Dire Straits Over Gold",
+    "url": "https://www.vivaticket.com/it/ticket/dire-straits-over-gold/311863"
+   },
+   {
+    "channel": "organizer",
+    "name": "Dire Straits Over Gold – tour ufficiale",
+    "url": "https://www.direstraitsovergold.com/tour"
+   }
+  ],
+  "startDate": "2026-11-21",
+  "timeLabel": "ore 21:15",
+  "title": "Dire Straits Over Gold",
+  "venue": "Teatro Cenacolo Francescano"
+ },
+ {
+  "title": "Fiorella Canta Fabrizio E Ivano: Anime Salve",
+  "category": "music",
+  "startDate": "2026-11-21",
+  "endDate": null,
+  "dateLabel": "sabato 21 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "ChorusLife Arena",
+  "city": "Bergamo",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Fiorella Mannoia canta Fabrizio De André e Ivano Fossati.",
+  "foodDetails": null,
+  "caveat": "La scheda Ticketmaster indica come nome venue 'Sala BA nuovo' allo stesso indirizzo della ChorusLife Arena (Via Carlo Serassi 26, Bergamo).",
+  "address": "Via Carlo Serassi 26, Bergamo",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/fiorella-canta-fabrizio-e-ivano-anime-salve-bergamo-21-11-2026/event/snu11bn4j2uy",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Muse - The Wow! Signal Europa Tour",
+  "category": "music",
+  "startDate": "2026-11-21",
+  "endDate": null,
+  "dateLabel": "sabato 21 novembre 2026",
+  "timeLabel": "20:30",
+  "venue": "Unipol Dome",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Romualdo Bonfadini 148, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/muse-the-wow-signal-europa-tour-milano-21-11-2026/event/7dxucbjp51gm",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "JUEVES TARDE GUITAR SEXTET",
+  "category": "music",
+  "startDate": "2026-11-22",
+  "endDate": null,
+  "dateLabel": "domenica 22 novembre 2026",
+  "timeLabel": null,
+  "venue": "Druso",
+  "city": "Ranica",
+  "province": "BG",
+  "area": "lombardia",
+  "kind": "concerto",
+  "priceLabel": "Da € 10,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": "Via Antonio Locatelli 17, 24020 Ranica (BG)",
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "JEFF BUCKLEY A CELEBRATION OF GRACE",
+  "category": "music",
+  "startDate": "2026-11-23",
+  "endDate": null,
+  "dateLabel": "lunedì 23 novembre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 26,00",
+  "priceType": "paid",
+  "details": "Performed live by Slow Pilot.",
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "via Valtellina 21, Milano",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Orario e prezzi non pubblicati nelle fonti reperite.",
+  "city": "Milano",
+  "dateLabel": "lunedì 23 novembre 2026",
+  "details": "Prima data italiana della cantautrice statunitense per il suo Halo Tour Europe (album Halo, pubblicato il 3 aprile 2026). Spettacolo spostato dal Legend Club al Gate per la grande richiesta di biglietti; i tagliandi già venduti restano validi. Biglietti su MC2Live.it e Vivaticket.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Tiffany Day",
+    "url": "https://www.vivaticket.com/it/ticket/tiffany-day/316927"
+   },
+   {
+    "channel": "editorial",
+    "name": "Rockol – Tiffany Day al Gate",
+    "url": "https://www.rockol.it/news-761338/tiffany-day-il-concerto-del-23-novembre-si-sposta-al-gate-milano"
+   }
+  ],
+  "startDate": "2026-11-23",
+  "timeLabel": "non pubblicato",
+  "title": "Tiffany Day – Halo Tour Europe",
+  "venue": "Gate"
+ },
+ {
+  "title": "Carlotta Spallino, Cecilia Forastieri, Fill Pill - Allo Sbagliato",
+  "category": "comedy",
+  "startDate": "2026-11-24",
+  "endDate": null,
+  "dateLabel": "martedì 24 novembre 2026",
+  "timeLabel": "20:30",
+  "venue": "Allo Sbagliato - Teatro Principe",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "stand-up",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Serata nella rassegna 'Allo Sbagliato'.",
+  "foodDetails": null,
+  "caveat": "Scheda Ticketmaster senza indirizzo del venue.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/carlotta-spallino-allo-sbagliato-milano-24-11-2026/event/3bncp8grqxvm",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "DISS GACHA - Non Solo Swag Tour 2026",
+  "category": "music",
+  "startDate": "2026-11-24",
+  "endDate": null,
+  "dateLabel": "martedì 24 novembre 2026",
+  "timeLabel": "Inizio ore 21:00",
+  "venue": "Magazzini Generali",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": "Tappa milanese del Non Solo Swag Tour 2026 (5 date nei club italiani).",
+  "foodDetails": null,
+  "caveat": "Prezzo non pubblicato; scheda singola TicketSms non recuperata via ricerca.",
+  "address": "Via Pietrasanta 16, Milano",
+  "sources": [
+   {
+    "name": "TicketSms - Eventi a Milano",
+    "url": "https://places.ticketsms.it/places/eventi-e-concerti-a-milano/",
+    "channel": "ticketing"
+   },
+   {
+    "name": "Il Tacco di Bacco - Non è solo Swag Tour 2026",
+    "url": "https://iltaccodibacco.it/veneto/eventi/320508.html",
+    "channel": "editorial"
+   }
+  ]
+ },
+ {
+  "title": "FANALI - NU VELENO CH'È DOCE - Live",
+  "category": "music",
+  "startDate": "2026-11-25",
+  "endDate": null,
+  "dateLabel": "mercoledì 25 novembre 2026",
+  "timeLabel": null,
+  "venue": null,
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Da € 12,00",
+  "priceType": "paid",
+  "details": null,
+  "foodDetails": null,
+  "caveat": "Scheda singola non recuperata via ricerca; dati da listing ufficiale Mailticket del 15/10/2026.",
+  "address": null,
+  "sources": [
+   {
+    "name": "Mailticket - listing Concerti",
+    "url": "https://www.mailticket.it/esplora/1/Concerti",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Freya Skye - Stars Align Tour",
+  "category": "music",
+  "startDate": "2026-11-25",
+  "endDate": null,
+  "dateLabel": "mercoledì 25 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Fabrique",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Gaudenzio Fantoli 9, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/freya-skye-stars-align-tour-milano-25-11-2026/event/6rnub74hz835",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "Polyphia: BE NOT AFRAID World Tour",
+  "category": "music",
+  "startDate": "2026-11-25",
+  "endDate": null,
+  "dateLabel": "mercoledì 25 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Alcatraz",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Valtellina 25, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/polyphia-milano-25-11-2026/event/dz6i7w2rktep",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "non pubblicato",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Programma e orario non pubblicati; prezzi da offerta convenzionata UNIMI.",
+  "city": "Milano",
+  "dateLabel": "mercoledì 25 novembre 2026",
+  "details": "Concerto della stagione della Fondazione La Società dei Concerti con i Solisti Aquilani e Tifu.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto classica",
+  "priceLabel": "settore bianco 25 €, settore blu 20 €, settore giallo 15 € (prezzi convenzionati Università Statale)",
+  "priceType": "paid",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Fondazione La Società dei Concerti (tour)",
+    "url": "https://www.vivaticket.com/it/tour/fondazione-la-societa-dei/2558"
+   },
+   {
+    "channel": "organizer",
+    "name": "UNIMI – Offerta biglietti 2026/27",
+    "url": "https://unimi.it/sites/default/files/2026-09/UNIMI%20Offerta%20biglietti%202026-2027.pdf"
+   }
+  ],
+  "startDate": "2026-11-25",
+  "timeLabel": "non pubblicato",
+  "title": "Solisti Aquilani / Tifu – Concerto (Fondazione La Società dei Concerti)",
+  "venue": "Sala Verdi del Conservatorio"
+ },
+ {
+  "title": "Saint Levant - AFANDI WORLD TOUR",
+  "category": "music",
+  "startDate": "2026-11-26",
+  "endDate": null,
+  "dateLabel": "giovedì 26 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Alcatraz",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Valtellina 25, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/saint-levant-afandi-world-tour-milano-26-11-2026/event/vml9fogfr66x",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "address": "via Valtellina 25, Milano",
+  "area": "milano",
+  "category": "music",
+  "caveat": "Orario e prezzi non pubblicati sulla scheda.",
+  "city": "Milano",
+  "dateLabel": "venerdì 27 novembre 2026",
+  "details": "Una delle ultime tre date nei club del tour che celebra i quarant'anni di 17 Re: 27/11 Milano (Alcatraz), 30/11 Venaria Reale, 2/12 Roma.",
+  "endDate": null,
+  "foodDetails": null,
+  "kind": "concerto",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "province": "MI",
+  "sources": [
+   {
+    "channel": "ticketing",
+    "name": "Vivaticket – Litfiba",
+    "url": "https://www.vivaticket.com/it/ticket/litfiba/314926"
+   }
+  ],
+  "startDate": "2026-11-27",
+  "timeLabel": "non pubblicato",
+  "title": "Litfiba – Quarant'anni di 17 Re Tour 2026",
+  "venue": "Alcatraz"
+ },
+ {
+  "title": "VALENTINA PERSIA - NATA CON LA GUÊPIÈRE",
+  "category": "comedy",
+  "startDate": "2026-11-28",
+  "endDate": null,
+  "dateLabel": "sabato 28 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Teatro Clerici",
+  "city": "Brescia",
+  "province": "BS",
+  "area": "lombardia",
+  "kind": "stand-up",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via S. Zeno 168, Brescia",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/valentina-persia-nata-con-la-gupire-brescia-28-11-2026/event/lbtf5u4n44n7",
+    "channel": "ticketing"
+   }
+  ]
+ },
+ {
+  "title": "ALESSANDRO CATTELAN - Benvenuto nell'AI!",
+  "category": "comedy",
+  "startDate": "2026-11-30",
+  "endDate": null,
+  "dateLabel": "lunedì 30 novembre 2026",
+  "timeLabel": "21:00",
+  "venue": "Teatro Lirico Giorgio Gaber",
+  "city": "Milano",
+  "province": "MI",
+  "area": "milano",
+  "kind": "stand-up",
+  "priceLabel": "Prezzo non pubblicato",
+  "priceType": "unknown",
+  "details": null,
+  "foodDetails": null,
+  "caveat": null,
+  "address": "Via Larga 14, Milano",
+  "sources": [
+   {
+    "name": "Ticketmaster Italia",
+    "url": "https://www.ticketmaster.it/biglietti/alessandro-cattelan-benvenuto-nellai-milano-30-11-2026/event/eqklpt9wtfyx",
+    "channel": "ticketing"
+   }
+  ]
+ }
+]
