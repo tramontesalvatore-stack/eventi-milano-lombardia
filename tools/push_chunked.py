@@ -37,6 +37,8 @@ def api(method, path, body=None, retries=6):
         except urllib.error.HTTPError as exc:
             detail = exc.read().decode("utf-8", "replace")[:200]
             print(f"  HTTP {exc.code} {method} {path} tent.{attempt+1}: {detail}", flush=True)
+            if exc.code == 403 and "rate limit" in detail.lower():
+                return exc.code, {"_error": detail, "_rate_limited": True}
             if attempt == retries - 1:
                 return exc.code, {"_error": detail}
             time.sleep(5 * (attempt + 1))
@@ -45,6 +47,18 @@ def api(method, path, body=None, retries=6):
             if attempt == retries - 1:
                 raise
             time.sleep(5 * (attempt + 1))
+
+
+def quota_low(threshold=500):
+    """True se la quota oraria GitHub e' quasi esaurita (GET /rate_limit non consuma quota)."""
+    try:
+        s, rl = api("GET", "/rate_limit")
+        rem = rl["resources"]["core"]["remaining"]
+        print(f"  quota GitHub residua: {rem}", flush=True)
+        return rem < threshold
+    except Exception as exc:
+        print(f"  (quota non leggibile: {exc})", flush=True)
+        return False
 
 
 def git_blob_sha(data):
@@ -84,23 +98,76 @@ print(f"{len(changed)} modificati/nuovi, {len(deleted)} da eliminare", flush=Tru
 
 # i blob vanno creati su GitHub PRIMA di referenziarli nei tree
 # (POST /git/trees accetta solo sha di oggetti esistenti)
+class QuotaExhausted(Exception):
+    pass
+
+
 def upload(item):
     rel, data = item
     s, blob = api("POST", f"{R}/git/blobs",
                   {"content": base64.b64encode(data).decode(),
                    "encoding": "base64"})
+    if s == 403 and blob.get("_rate_limited"):
+        raise QuotaExhausted(rel)
     assert s == 201, f"blob {rel}: {s} {blob}"
     return rel, blob["sha"]
 
-uploaded = []
-with ThreadPoolExecutor(max_workers=8) as ex:
-    for rel, sha in ex.map(upload, changed):
-        uploaded.append((rel, sha))
-        if len(uploaded) % 200 == 0 or len(uploaded) == len(changed):
-            print(f"  blob {len(uploaded)}/{len(changed)}", flush=True)
 
-pages = [(r, sh) for r, sh in uploaded if r.startswith("evento/")]
-others = [(r, sh) for r, sh in uploaded if not r.startswith("evento/")]
+upload_cache_path = "/tmp/push_uploaded_cache.json"
+upload_cache = {}
+if os.path.exists(upload_cache_path):
+    try:
+        upload_cache = json.load(open(upload_cache_path, encoding="utf-8"))
+    except Exception:
+        upload_cache = {}
+changed_orig = list(changed)  # prima del filtro cache
+skipped = 0
+to_upload = []
+for rel, data in changed:
+    if upload_cache.get(rel) == git_blob_sha(data):
+        skipped += 1
+    else:
+        to_upload.append((rel, data))
+print(f"blob gia' caricati (cache): {skipped}, da caricare: {len(to_upload)}", flush=True)
+changed = to_upload
+
+
+def save_upload_cache(uploaded):
+    try:
+        cur = {}
+        if os.path.exists(upload_cache_path):
+            cur = json.load(open(upload_cache_path, encoding="utf-8"))
+        loc = dict(local)
+        for r, s in uploaded:
+            cur[r] = git_blob_sha(loc[r][0])
+        json.dump(cur, open(upload_cache_path, "w", encoding="utf-8"))
+    except Exception as exc:
+        print(f"  (cache non salvata: {exc})", flush=True)
+
+
+uploaded = []
+try:
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        for rel, sha in ex.map(upload, changed):
+            uploaded.append((rel, sha))
+            if len(uploaded) % 200 == 0 or len(uploaded) == len(changed):
+                print(f"  blob {len(uploaded)}/{len(changed)}", flush=True)
+                # salva cache incrementale: una ripresa non ricarica i blob gia' su GitHub
+                save_upload_cache(uploaded)
+                if len(uploaded) % 1000 == 0 and quota_low():
+                    raise QuotaExhausted("checkpoint-quota")
+except QuotaExhausted as qe:
+    print(f"  QUOTA_LIMIT ({qe}): salvo cache e mi fermo, ripresa alla prossima finestra", flush=True)
+    save_upload_cache(uploaded)
+    sys.exit(10)
+
+# i blob gia' caricati in una run precedente (cache) esistono su GitHub:
+# riusa i loro sha per costruire i tree, senza ricaricarli
+cached_done = [(rel, upload_cache[rel]) for rel, data in changed_orig
+               if upload_cache.get(rel) == git_blob_sha(data)]
+all_uploaded = cached_done + uploaded
+pages = [(r, sh) for r, sh in all_uploaded if r.startswith("evento/")]
+others = [(r, sh) for r, sh in all_uploaded if not r.startswith("evento/")]
 
 chunks = [pages[i:i + CHUNK] for i in range(0, len(pages), CHUNK)]
 # ultimo chunk: resto pagine + altri file + eliminazioni
