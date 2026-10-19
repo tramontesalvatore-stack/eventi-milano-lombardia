@@ -1,0 +1,34 @@
+eventi totali: 10235, da geocodificare: 625
+  ! errore query Sedi varie: Chiesa dei Santi Giacomo e Filippo e Villa Marab -> HTTP Error 400: Bad Request
+  ! errore query Sedi varie: Chiesa dei Santi Giacomo e Filippo e Villa Marab -> HTTP Error 400: Bad Request
+  ... 20/625
+  ... 40/625
+  ... 60/625
+  ... 80/625
+  ... 100/625
+  ... 120/625
+  ... 140/625
+  ... 160/625
+  ... 180/625
+  ... 200/625
+  ... 220/625
+  ... 240/625
+  ... 260/625
+  ... 280/625
+  ... 300/625
+  ... 320/625
+  ... 340/625
+  ... 360/625
+  ... 380/625
+  ... 400/625
+  ... 420/625
+  ... 440/625
+  ... 460/625
+  ... 480/625
+  ... 500/625
+  ... 520/625
+  ... 540/625
+  ... 560/625
+  ... 580/625
+OK: 594 geocodificati, 594 applicati, 10204/10235 con coordinate (1073 su fallback Duomo)
+GEOCODE_EXIT:0
