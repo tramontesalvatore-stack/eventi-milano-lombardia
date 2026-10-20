@@ -1,0 +1,25 @@
+10552 file locali
+1961 modificati/nuovi, 260 da eliminare
+blob gia' caricati (cache): 0, da caricare: 1961
+  blob 200/1961
+  blob 400/1961
+  blob 600/1961
+  blob 800/1961
+  blob 1000/1961
+  quota GitHub residua: 4997
+  blob 1200/1961
+  blob 1400/1961
+  blob 1600/1961
+  blob 1800/1961
+  blob 1961/1961
+3 chunk
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/trees tent.1: {"message":"Sorry, your request timed out.  It's likely that your input was too large to process.  Consider building the tree incrementally, or building the commits you need in a local clone of the re
+chunk 1/3: commit 8180e57 (800 voci)
+  HTTP 502 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/trees tent.1: {
+  "message": "Server Error"
+}
+
+chunk 2/3: commit 3aab44f (800 voci)
+chunk 3/3: commit d668f85 (621 voci)
+PUSHED https://github.com/tramontesalvatore-stack/eventi-milano-lombardia/tree/main @ d668f85
+PUSH_EXIT:0
