@@ -60,6 +60,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text",Inter,"Segoe UI"
 .dlabel{font-size:.85rem;color:var(--muted);min-width:92px;font-weight:600}
 #fLoc #customAddr{border:1.5px solid var(--line);background:var(--bg2);border-radius:999px;padding:7px 13px;font-size:.85rem;color:var(--ink);width:170px}
 #fLoc #customAddr:focus{outline:none;border-color:var(--accent)}
+#specDate{border:1.5px solid var(--line);background:var(--bg2);border-radius:999px;padding:7px 13px;font-size:.85rem;color:var(--ink);font-family:inherit}
+#specDate:focus{outline:none;border-color:var(--accent)}
+#specDateClear{border:1.5px solid var(--line);background:var(--bg2);border-radius:999px;padding:5px 10px;cursor:pointer;color:var(--ink)}
 #fLoc #useMyPos{border:1.5px solid var(--line);background:var(--bg2);border-radius:999px;padding:7px 13px;font-size:.85rem;font-weight:600;cursor:pointer;color:var(--ink)}
 
 /* CARDS */

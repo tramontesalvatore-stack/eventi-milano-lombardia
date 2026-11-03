@@ -1,4 +1,4 @@
-let EVENTS=[], FILTERS={q:'',period:'all',cat:'all',price:'all',zone:'all',sort:'date',maxDist:null,only:''}, map=null, markers=[];
+let EVENTS=[], FILTERS={q:'',period:'all',date:'',cat:'all',price:'all',zone:'all',sort:'date',maxDist:null,only:''}, map=null, markers=[];
 const MILANO={lat:45.4642,lon:9.19};
 // Punto di riferimento per le distanze: posizione utente se concessa, altrimenti Milano.
 // Salvato in localStorage così sopravvive alle visite.
@@ -115,7 +115,9 @@ function distKm(e){if(!e.latitude||!e.longitude)return null;
   const a=Math.sin(dLa/2)**2+Math.cos(REF.lat*Math.PI/180)*Math.cos(e.latitude*Math.PI/180)*Math.sin(dLo/2)**2;
   return R*2*Math.atan2(Math.sqrt(a),Math.sqrt(1-a))}
 function distTxt(e){const d=distKm(e);if(d==null)return'';return d<1?'meno di 1 km':Math.round(d)+' km'}
-function matchPeriod(e){const t=new Date();t.setHours(12,0,0,0);const p=FILTERS.period;
+function matchPeriod(e){const t=new Date();t.setHours(12,0,0,0);
+  if(FILTERS.date){const d=parseD(FILTERS.date);return d?ongoing(e,d):true}
+  const p=FILTERS.period;
   if(p==='all'){const en=parseD(e.endDate||e.startDate);return en&&en>=t}
   if(p==='today')return ongoing(e,t);
   if(p==='weekend'){const[a,b]=weekendRange();return intersects(e,a,b)}
@@ -203,7 +205,7 @@ window.addEventListener('scroll',()=>{if(scrollTick)return;scrollTick=true;
     if(RENDERED>=LAST_LIST.length)return;
     if(window.innerHeight+window.scrollY>document.documentElement.scrollHeight-900)moreEvents()})},{passive:true});
 function updateFCount(){let n=0;
-  if(FILTERS.period!=='all')n++;if(FILTERS.cat!=='all')n++;if(FILTERS.price!=='all')n++;
+  if(FILTERS.period!=='all')n++;if(FILTERS.date)n++;if(FILTERS.cat!=='all')n++;if(FILTERS.price!=='all')n++;
   if(FILTERS.zone!=='all')n++;if(FILTERS.sort!=='date')n++;if(FILTERS.maxDist!=null)n++;
   if(FILTERS.only)n++;
   const el=document.getElementById('fcount');
@@ -278,10 +280,18 @@ function syncChips(){document.querySelectorAll('#chips button').forEach(b=>{
   if(k==='near')on=FILTERS.maxDist===20&&FILTERS.sort==='dist';
   b.classList.toggle('on',on)})}
 function bindFilters(){
+  const sd=document.getElementById('specDate'),sdc=document.getElementById('specDateClear');
+  function clearSpecDate(){if(!sd)return;sd.value='';FILTERS.date='';sdc.classList.add('hidden')}
+  if(sd){sd.min=todayStr();
+    sd.addEventListener('change',()=>{FILTERS.date=sd.value;
+      if(FILTERS.date){FILTERS.period='all';setGroup('fPeriod','all')}
+      sdc.classList.toggle('hidden',!FILTERS.date);render()});
+    sdc.addEventListener('click',()=>{clearSpecDate();render()})}
   document.querySelectorAll('.fgroup[id]').forEach(g=>{
     g.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{
       g.querySelectorAll('button').forEach(x=>x.classList.remove('on'));b.classList.add('on');
       FILTERS[g.id.slice(1).toLowerCase()]=b.dataset.v;
+      if(g.id==='fPeriod')clearSpecDate();
       if(g.id==='fZone'){if(b.dataset.v==='milano')resetDist();
         else{const zmd=document.getElementById('maxDist'),zml=document.getElementById('maxDistLabel');
           if(zmd&&+zmd.value===0){FILTERS.maxDist=null;zml.textContent='Qualsiasi'}}}
