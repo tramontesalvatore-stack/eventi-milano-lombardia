@@ -105,8 +105,11 @@ const dstr=d=>d.toISOString().slice(0,10);
 const MONTHS=['gen','feb','mar','apr','mag','giu','lug','ago','set','ott','nov','dic'];
 function todayStr(){return dstr(new Date())}
 function parseD(s){return s?new Date(s+'T12:00:00'):null}
-function ongoing(e,t){const s=parseD(e.startDate),en=parseD(e.endDate||e.startDate);return s&&en&&s<=t&&t<=en}
-function intersects(e,a,b){const s=parseD(e.startDate),en=parseD(e.endDate||e.startDate);return s&&en&&s<=b&&en>=a}
+function dstrLocal(t){return t.getFullYear()+'-'+String(t.getMonth()+1).padStart(2,'0')+'-'+String(t.getDate()).padStart(2,'0')}
+function ongoing(e,t){if(e.dates&&e.dates.length)return e.dates.some(x=>x.d===dstrLocal(t));
+  const s=parseD(e.startDate),en=parseD(e.endDate||e.startDate);return s&&en&&s<=t&&t<=en}
+function intersects(e,a,b){if(e.dates&&e.dates.length)return e.dates.some(x=>{const d=parseD(x.d);return d&&d>=a&&d<=b});
+  const s=parseD(e.startDate),en=parseD(e.endDate||e.startDate);return s&&en&&s<=b&&en>=a}
 function weekendRange(){const n=new Date(),d=n.getDay(),t=new Date(n);t.setHours(12,0,0,0);
   let sat=new Date(t);if(d===6)sat=new Date(t);else if(d===0)sat=new Date(t),sat.setDate(sat.getDate()-1);else sat.setDate(sat.getDate()+(6-d));
   let sun=new Date(sat);sun.setDate(sun.getDate()+1);return[sat,sun]}
@@ -145,6 +148,10 @@ function filtered(){const q=FILTERS.q.toLowerCase();
 function pricePill(e){const c=e.priceType==='free'?'free':e.priceType==='paid'?'paid':'unknown';
   const lbl=e.priceType==='paid'?(e.priceLabel&&e.priceLabel.length<=24?e.priceLabel:(e.priceLabel?'A pagamento':'Prezzo n.d.')):(e.priceType==='free'?'Gratis':'Prezzo n.d.');
   return `<span class="pricepill ${c}">${esc(lbl)}</span>`}
+function datesSection(e){ // scheda: elenco date per gli spettacoli con piu repliche
+  if(!e.dates||e.dates.length<=1)return '';
+  const items=e.dates.map(x=>{const p=x.d.split('-');return p[2]+' '+MONTHS[+p[1]-1]+(x.t?' · '+esc(x.t):'')}).join('<br>');
+  return `<div class="msec"><h3>Date in programma (${e.dates.length})</h3><p class="mdesc">${items}</p></div>`}
 function priceSection(e){ // scheda: etichetta prezzo lunga mostrata per esteso
   if(e.priceType!=='paid'||!e.priceLabel||e.priceLabel.length<=24)return '';
   return `<div class="msec"><h3>Prezzi</h3><p class="mdesc">${esc(e.priceLabel)}</p></div>`}
@@ -257,6 +264,7 @@ function openModal(id){const e=EVENTS.find(x=>x.id===id);if(!e)return;
     ${e.kind?`<p class="meta">${esc(e.kind)}</p>`:''}<p>${pricePill(e)}</p>
     ${ticketCTA(e)}
     ${priceSection(e)}
+    ${datesSection(e)}
     ${e.details?`<div class="msec"><h3>Dettagli</h3><p class="mdesc${longDesc?' clamp':''}">${esc(e.details)}</p>${longDesc?`<button class="descbtn" onclick="toggleDesc(this)">Leggi tutto ▾</button>`:''}</div>`:''}
     ${e.foodDetails?`<div class="msec"><h3>Food</h3><p class="mdesc">${esc(e.foodDetails)}</p></div>`:''}
     ${e.address?`<p class="meta addr">${esc(e.address)}</p>`:''}${e.caveat?`<p class="cav">⚠ ${esc(e.caveat)}</p>`:''}${srcHTML(e)}
