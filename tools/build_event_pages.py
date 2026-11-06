@@ -149,6 +149,23 @@ def page_html(e, url):
         prices = (f'<div class="sec"><h2>Prezzi</h2><div>{esc(e.get("priceLabel"))}</div></div>')
     caveat = (f'<div class="sec"><h2>Nota</h2><div>{esc(e.get("caveat"))}</div></div>'
               if e.get('caveat') else '')
+    dates_sec = ''
+    if e.get('dates') and len(e['dates']) > 1:
+        _MESI = ['gennaio', 'febbraio', 'marzo', 'aprile', 'maggio', 'giugno',
+                 'luglio', 'agosto', 'settembre', 'ottobre', 'novembre', 'dicembre']
+        _GG = ['lunedì', 'martedì', 'mercoledì', 'giovedì', 'venerdì', 'sabato', 'domenica']
+        items = []
+        for x in e['dates']:
+            try:
+                _d = date.fromisoformat(x['d'])
+                lbl = f'{_GG[_d.weekday()]} {_d.day} {_MESI[_d.month - 1]} {_d.year}'
+            except Exception:
+                lbl = x['d']
+            if x.get('t'):
+                lbl += ' · ' + x['t']
+            items.append(esc(lbl))
+        dates_sec = ('<div class="sec"><h2>Date in programma</h2><div>'
+                     + '<br>'.join(items) + '</div></div>')
     sources = ''
     if e.get('sources'):
         links = ' · '.join(
@@ -181,7 +198,7 @@ def page_html(e, url):
 <h1>{esc(title)}</h1>
 <div class="meta">{esc(date_line)}<br>{esc(place)}{('<br>' + addr) if addr else ''}</div>
 {f'<div class="desc">{details}</div>' if details else ''}
-{food}{prices}{caveat}
+{dates_sec}{food}{prices}{caveat}
 <a class="btn" href="{SITE}/?evento={slug}">Apri nell'app</a>
 {sources}
 </div></div>
