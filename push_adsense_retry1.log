@@ -1,0 +1,50 @@
+10657 file locali
+10328 modificati/nuovi, 0 da eliminare
+blob gia' caricati (cache): 2623, da caricare: 7705
+  blob 200/7705
+  blob 400/7705
+  blob 600/7705
+  blob 800/7705
+  blob 1000/7705
+  quota GitHub residua: 4972
+  blob 1200/7705
+  blob 1400/7705
+  blob 1600/7705
+  blob 1800/7705
+  blob 2000/7705
+  quota GitHub residua: 4972
+  blob 2200/7705
+  blob 2400/7705
+  blob 2600/7705
+  blob 2800/7705
+  blob 3000/7705
+  quota GitHub residua: 4972
+  blob 3200/7705
+  blob 3400/7705
+  blob 3600/7705
+  blob 3800/7705
+  blob 4000/7705
+  quota GitHub residua: 4972
+  blob 4200/7705
+  blob 4400/7705
+  blob 4600/7705
+  blob 4800/7705
+  HTTP 403 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/blobs tent.1: {
+	"message": "API rate limit exceeded for user ID 257573359. If you reach out to GitHub Support for help, please include the request ID A4A8:1D0E23:1AD0CA2:283EA9C:6AED409D and timestamp 2026-11-06 0
+  HTTP 403 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/blobs tent.1: {
+	"message": "API rate limit exceeded for user ID 257573359. If you reach out to GitHub Support for help, please include the request ID D135:3DFCCB:1B2FFBA:28B0A03:6AED409D and timestamp 2026-11-06 0
+  HTTP 403 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/blobs tent.1: {
+	"message": "API rate limit exceeded for user ID 257573359. If you reach out to GitHub Support for help, please include the request ID F03E:16004D:1AC3FCD:2817CD3:6AED409E and timestamp 2026-11-06 0
+  HTTP 403 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/blobs tent.1: {
+	"message": "API rate limit exceeded for user ID 257573359. If you reach out to GitHub Support for help, please include the request ID A203:F44ED:392BA8:5735B4:6AED409E and timestamp 2026-11-06 02:5
+  HTTP 403 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/blobs tent.1: {
+	"message": "API rate limit exceeded for user ID 257573359. If you reach out to GitHub Support for help, please include the request ID F3EB:1D0E23:1AD1178:283F21A:6AED409E and timestamp 2026-11-06 0
+  HTTP 403 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/blobs tent.1: {
+	"message": "API rate limit exceeded for user ID 257573359. If you reach out to GitHub Support for help, please include the request ID D2AF:282796:1A2AC1A:274699C:6AED409E and timestamp 2026-11-06 0
+  HTTP 403 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/blobs tent.1: {
+	"message": "API rate limit exceeded for user ID 257573359. If you reach out to GitHub Support for help, please include the request ID 92A6:1E4329:1A2EC2E:27385E6:6AED409E and timestamp 2026-11-06 0
+  HTTP 403 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/blobs tent.1: {
+	"message": "API rate limit exceeded for user ID 257573359. If you reach out to GitHub Support for help, please include the request ID 2DE5:1AF018:1A95CC0:27E5890:6AED409E and timestamp 2026-11-06 0
+  HTTP 403 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/blobs tent.1: {
+	"message": "API rate limit exceeded for user ID 257573359. If you reach out to GitHub Support for help, please include the request ID 5A2B:271F7B:1A1964F:2727AE0:6AED409E and timestamp 2026-11-06 0
+  QUOTA_LIMIT (evento/bba454b01cee.html): salvo cache e mi fermo, ripresa alla prossima finestra

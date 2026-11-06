@@ -129,6 +129,23 @@ def cat_label(e):
             'inaugurazioni': 'Inaugurazione'}.get(e.get('category') or '', 'Evento')
 
 
+def indexable(e):
+    """Pagina abbastanza ricca da proporre a Google: descrizione vera
+    (>= 80 parole) e dati essenziali completi. Le altre pagine restano
+    raggiungibili dall'app ma escono dalla sitemap e portano noindex."""
+    return (len((e.get('details') or '').split()) >= 80
+            and bool(e.get('venue')) and bool(e.get('city'))
+            and bool(e.get('startDate')))
+
+
+GUIDE_URLS = [
+    '/guide/concerti-a-milano.html',
+    '/guide/festival-in-lombardia.html',
+    '/guide/musica-live-gratis-a-milano.html',
+    '/guide/stand-up-comedy-a-milano.html',
+]
+
+
 def page_html(e, url):
     title = e.get('title') or 'Evento'
     date_line = e.get('dateLabel') or e.get('startDate') or ''
@@ -183,6 +200,7 @@ def page_html(e, url):
 <title>{esc(title)} — {esc(date_line)} | Eventi Milano Lombardia</title>
 <meta name="description" content="{esc(desc_meta)}">
 <link rel="canonical" href="{url}">
+{'' if indexable(e) else '<meta name="robots" content="noindex,follow">'}
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Eventi Milano Lombardia">
 <meta property="og:title" content="{esc(title)}">
@@ -219,13 +237,16 @@ def main():
     os.makedirs(OUT_DIR, exist_ok=True)
 
     urls = []
+    n_indexed = 0
     for e in events:
         slug = slug_for(e)
         e['slug'] = slug
         url = f'{SITE}/evento/{slug}.html'
         with open(os.path.join(OUT_DIR, f'{slug}.html'), 'w', encoding='utf-8') as f:
             f.write(page_html(e, url))
-        urls.append(url)
+        if indexable(e):
+            urls.append(url)
+            n_indexed += 1
 
     with open(EVENTS_JSON, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False)
@@ -237,13 +258,18 @@ def main():
     for u in urls:
         sm.append(f'  <url><loc>{u}</loc><lastmod>{today}</lastmod>'
                   '<changefreq>weekly</changefreq><priority>0.6</priority></url>')
+    for g in GUIDE_URLS:
+        if os.path.exists(os.path.join(os.path.dirname(SITEMAP), g.lstrip('/'))):
+            sm.append(f'  <url><loc>{SITE}{g}</loc><lastmod>{today}</lastmod>'
+                      '<changefreq>weekly</changefreq><priority>0.8</priority></url>')
     sm.append('</urlset>')
     with open(SITEMAP, 'w', encoding='utf-8') as f:
         f.write('\n'.join(sm))
 
     update_noscript(events)
 
-    print(f'{len(urls)} pagine evento + sitemap ({len(urls) + 1} URL)')
+    print(f'{len(events)} pagine evento generate, {n_indexed} in sitemap '
+          f'+ home + guide')
 
 
 def update_noscript(events):

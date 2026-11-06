@@ -1,0 +1,40 @@
+10660 file locali
+10331 modificati/nuovi, 0 da eliminare
+blob gia' caricati (cache): 10329, da caricare: 2
+  blob 2/2
+13 chunk
+chunk 1/13: commit f4cc5d6 (800 voci)
+chunk 2/13: commit b538755 (800 voci)
+chunk 3/13: commit 6b863e8 (800 voci)
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/trees tent.1: {"message":"tree.sha 3032d689b3b7c2bb7b3e34d70152b3027c2e78af is not a valid blob","documentation_url":"https://docs.github.com/rest/git/trees#create-a-tree","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/trees tent.2: {"message":"tree.sha 3032d689b3b7c2bb7b3e34d70152b3027c2e78af is not a valid blob","documentation_url":"https://docs.github.com/rest/git/trees#create-a-tree","status":"422"}
+chunk 4/13: commit ab9aa08 (800 voci)
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/commits tent.1: {"message":"Tree SHA does not exist","documentation_url":"https://docs.github.com/rest/git/commits#create-a-commit","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/commits tent.2: {"message":"Tree SHA does not exist","documentation_url":"https://docs.github.com/rest/git/commits#create-a-commit","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/commits tent.3: {"message":"Tree SHA does not exist","documentation_url":"https://docs.github.com/rest/git/commits#create-a-commit","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/commits tent.4: {"message":"Tree SHA does not exist","documentation_url":"https://docs.github.com/rest/git/commits#create-a-commit","status":"422"}
+chunk 5/13: commit f9b8e29 (800 voci)
+chunk 6/13: commit 26b19bd (800 voci)
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/trees tent.1: {"message":"tree.sha aa887af99cf428423e3c0a958dae99cc66ba7712 is not a valid blob","documentation_url":"https://docs.github.com/rest/git/trees#create-a-tree","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/trees tent.2: {"message":"tree.sha d8b432b5a51f559c67a6ba95d1a4b6bed16f5128 is not a valid blob","documentation_url":"https://docs.github.com/rest/git/trees#create-a-tree","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/trees tent.3: {"message":"tree.sha aa887af99cf428423e3c0a958dae99cc66ba7712 is not a valid blob","documentation_url":"https://docs.github.com/rest/git/trees#create-a-tree","status":"422"}
+chunk 7/13: commit 7b41df8 (800 voci)
+chunk 8/13: commit 70c18c6 (800 voci)
+chunk 9/13: commit d48afa1 (800 voci)
+  HTTP 502 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/trees tent.1: {
+  "message": "Server Error"
+}
+
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/trees tent.2: {"message":"tree.sha ac7d5f670aa57cd5ad9e61212d9c723dc7888611 is not a valid blob","documentation_url":"https://docs.github.com/rest/git/trees#create-a-tree","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/trees tent.3: {"message":"tree.sha ac7d5f670aa57cd5ad9e61212d9c723dc7888611 is not a valid blob","documentation_url":"https://docs.github.com/rest/git/trees#create-a-tree","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/commits tent.1: {"message":"Tree SHA does not exist","documentation_url":"https://docs.github.com/rest/git/commits#create-a-commit","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/commits tent.2: {"message":"Tree SHA does not exist","documentation_url":"https://docs.github.com/rest/git/commits#create-a-commit","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/commits tent.3: {"message":"Tree SHA does not exist","documentation_url":"https://docs.github.com/rest/git/commits#create-a-commit","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/commits tent.4: {"message":"Tree SHA does not exist","documentation_url":"https://docs.github.com/rest/git/commits#create-a-commit","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/commits tent.5: {"message":"Tree SHA does not exist","documentation_url":"https://docs.github.com/rest/git/commits#create-a-commit","status":"422"}
+  HTTP 422 POST /repos/tramontesalvatore-stack/eventi-milano-lombardia/git/commits tent.6: {"message":"Tree SHA does not exist","documentation_url":"https://docs.github.com/rest/git/commits#create-a-commit","status":"422"}
+Traceback (most recent call last):
+  File "/home/hatch/workspace/eventi-pubblico/tools/push_chunked.py", line 199, in <module>
+    assert s == 201, f"commit chunk {i}: {s} {nc}"
+           ^^^^^^^^
+AssertionError: commit chunk 9: 422 {'_error': '{"message":"Tree SHA does not exist","documentation_url":"https://docs.github.com/rest/git/commits#create-a-commit","status":"422"}'}
