@@ -1,0 +1,11 @@
+Sync giornaliera 2026-11-12 (10:30 CET)
+- listevents: refresh 2026-11-12T09:15:15Z, 1 nuovo + 27 aggiornati (lotto 3/3, 88 eventi unici, 23 nov-1 dic 2026)
+- events.json iniziale: 20356 eventi
+- dedup: 6097 rimossi -> 14259
+- group_shows: -> 11026 eventi (1318 con campo dates)
+- geocode: 125 da geocodificare, 94 ok; 10995/11026 con coordinate (1190 fallback Duomo)
+- build_event_pages: 11026 pagine, sitemap 2883 + home + guide, noscript 40 eventi
+- strip campi (eventKey, updatedAt, sourceCheckedAt, status), slug e dates tenuti
+- push_chunked: 11369 file locali, 347 modificati/nuovi, 45 eliminati, 1 chunk, commit 357efcb
+- Render: deploy manuale dep-dbqoierbc2fs73e0g5sg (commit 357efcb) -> live 09:40:07Z
+- Sito pubblico verificato: homepage risponde, crawl 09:40 UTC
